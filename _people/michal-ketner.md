@@ -1,12 +1,13 @@
 ---
 uid: michal.ketner
-name:     Michal Ketner  	# běžně používáné jméno
-fullname: Michal Ketner  	# jméno s tituly etc.
-category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
+name:     Michal Ketner  # běžně používáné jméno
+fullname: Michal Ketner  # jméno s tituly etc.
+category:                 # kategorie: rp, praha, vary, hradec, jmk, senat
 - rk
 - ulk
 - ga
 - pks
+- litkan
 img: people/michal-ketner.jpg   # 165 x 220
 description: 3. místopředseda krajského sdružení Ústeckého kraje, garant programového bodu Psychotropní látky, člen rozhodčí komise  # kratký popis, max 160 znaků
 mail:
@@ -14,11 +15,12 @@ mail:
 mob:			  +420 722 225 444
 profiles:
   github:       https://github.com/olidstva/
-  facebook: 		https://www.facebook.com/michal.ketner.ol
+  facebook:	https://www.facebook.com/michal.ketner.ol
   twitter: 
   flickr: 
 ordga: 4
 ordpks: 4
+ordlitkan: 9
 ---
 
 Narodil se 10.12.1990, je člen Rozhodčí komise a Garantem programového bodu Psychotropní látky. 

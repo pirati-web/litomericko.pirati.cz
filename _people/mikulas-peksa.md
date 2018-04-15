@@ -10,6 +10,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - pks
 - carousel
 - media
+- litkan
 img: people/mikulas-peksa.jpg   # 165 x 220
 description: Předseda místní sdružení
 mail:
@@ -24,6 +25,7 @@ ordga: 9
 ordrp: 5
 ordpsp: 4
 ordpks: 2
+ordlitkan: 7
 carousel:
   img: mikulas-peksa.jpg
   text: |
