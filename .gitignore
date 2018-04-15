@@ -13,3 +13,4 @@ bower_components
 vendor
 
 *.db
+*.log
