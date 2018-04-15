@@ -1,8 +1,8 @@
-title: Pirátská strana Ústecký kraj
+title: Pirátská strana Litoměřicko
 email: to@pirati.cz
 description: Prosazujeme fungující moderní politiku založenou na využití technologií 21. století pro otevřenou demokratickou společnost.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ustecky.pirati.cz" # the base hostname & protocol for your site
+url: "https://litomericko.pirati.cz" # the base hostname & protocol for your site
 
 markdown: kramdown
 
@@ -51,7 +51,7 @@ defaults:   # defaults values for collection scope
       rbar: "team-summary, teams-toc"
 
 calendar:
-fb: https://www.facebook.com/pirati.ulk/
+fb: https://www.facebook.com/565612520258085/
 tw: 
 title-page:
   big:
