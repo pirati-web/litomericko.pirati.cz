@@ -1,8 +1,13 @@
 $hb-ns: '';
 
-.#{$hb-ns}c-header-bar {
+.#{$hb-ns}c-header-bar-black {
   background: #343434;
 }
+
+.#{$hb-ns}c-header-bar-green {
+  background: #60b44c;
+}
+
 
 .#{$hb-ns}c-header-bar .#{$hb-ns}c-header-bar-divider {
   width: 100%;
