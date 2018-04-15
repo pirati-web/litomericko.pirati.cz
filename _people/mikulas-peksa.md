@@ -11,7 +11,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - carousel
 - media
 img: people/mikulas-peksa.jpg   # 165 x 220
-description: Předseda místní sdružení
+description: Předseda místního sdružení
 mail:
 - mikulas.peksa@pirati.cz
 mob: 605101249
