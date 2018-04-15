@@ -66,22 +66,11 @@
               <li {% if page.url contains 'aktuality' %} class="is-active"{% endif %}>
                 <a href="{{'/aktuality/' | relative_url }}">Aktuality</a>
               </li>
-              <li{% if page.url contains 'lide or page.url contains 'lide' or page.url contains 'regiony'%} class="is-active"{% endif %}>
-                <a href="{{ '/o-nas/' | relative_url }}">O nás</a>
-   		<ul class="menu vertical">
-                  <li{% if page.url contains 'lide'%} class="is-active"{% endif %}>
-                    <a href="{{ '/lide/' | relative_url }}">Naši lidé</a>
-                  </li>
-                  <li{% if page.url contains 'funkcionari'%} class="is-active"{% endif %}>
-                    <a href="{{ '/funkcionari/' | relative_url }}">Funkcionáři</a>
-                  </li>
-                </ul>
+              <li{% if page.url contains 'lide' %} class="is-active"{% endif %}>
+                <a href="{{ '/lide/' | relative_url }}">Lidé</a>
               </li>
               <li{% if page.url contains 'program' %} class="is-active"{% endif %}>
-                <a href="{{ '/regiony/' | relative_url }}">Regiony</a>
-              </li>
-              <li{% if page.url contains 'pripoj-se' %} class="is-active"{% endif %}>
-                <a href="{{ '/pripoj-se/' | relative_url }}">Připoj se</a>
+                <a href="{{ '/program/' | relative_url }}">Program</a>
               </li>
               <li{% if page.url contains 'kontakt' %} class="is-active"{% endif %}>
                 <a href="{{ '/kontakt/' | relative_url }}">Kontakt</a>
