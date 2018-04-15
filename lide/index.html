@@ -11,7 +11,6 @@ layout: default
                         <div class="c-BasicPage-content">
                           <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                               <li class="c-simple-accordion-item  is-active" data-accordion-item="">
-                                  <a href="#cleni" class="c-simple-accordion-title">Členi</a>
                                   <div id="cleni" class="c-simple-accordion-content" data-tab-content="">
                                         {% assign team = site.people | where_exp:"item","item.categories contains 'litkan'"| sort:"ordlitkan" %}
                                         {% include people/list-2col.html param=team %}
@@ -48,7 +47,7 @@ layout: default
                             <i class="fa fa-chevron-right" aria-hidden="true"></i>
                         </button>
                         <ul class="orbit-container">
-                            {% assign team = site.people | where_exp:"item","item.categories contains 'carousel'" | sort:"ordcar" %}
+                            {% assign team = site.people | where_exp:"item","item.categories contains 'carousel'" | sort:"ordlitkan" %}
                             {% for person in team %}
                             {% include people/carousel.html param='person' %}
                             {% endfor %}
