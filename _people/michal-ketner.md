@@ -9,7 +9,7 @@ category:                 # kategorie: rp, praha, vary, hradec, jmk, senat
 - pks
 - litkan
 img: people/michal-ketner.jpg   # 165 x 220
-description: 3. místopředseda krajského sdružení Ústeckého kraje, garant programového bodu Psychotropní látky, člen rozhodčí komise  # kratký popis, max 160 znaků
+description: Místopředseda MS Piráti Litoměřicko
 mail:
 - michal.ketner@pirati.cz
 mob:			  +420 722 225 444

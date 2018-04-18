@@ -12,7 +12,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - media
 - litkan
 img: people/mikulas-peksa.jpg   # 165 x 220
-description: Předseda místního sdružení
+description: Předseda MS Piráti Litoměřicko
 mail:
 - mikulas.peksa@pirati.cz
 mob: 605101249
