@@ -4,6 +4,7 @@ name:     Kateřina Stojanová  	# běžně používáné jméno
 fullname: Kateřina Stojanová  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
+- litkan
 img: people/katerina-stojanova.jpg   # 165 x 220
 description: Členka MS Piráti Litomeřicko             	# kratký popis, max 160 znaků
 mail:
@@ -17,5 +18,6 @@ profiles:
 carousel:
   img: katerina-stojanova.jpg
   text: 
+ordlitkan: 5
 ---
 

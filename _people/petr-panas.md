@@ -5,7 +5,7 @@ fullname: Mgr. Petr Panaš  	# jméno s tituly etc.
 category:
 - litkan                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/petr-panas.jpg   # 165 x 220
-description: Předseda základní organizace Strany Zelených
+description: Vedoucí odboru MěÚ Terezín
 mail:
 mob:
 profiles:

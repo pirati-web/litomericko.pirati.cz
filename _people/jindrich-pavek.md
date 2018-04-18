@@ -6,7 +6,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - litkan
 img: people/jindrich-pavek.jpg   # 165 x 220
-description: Místopředseda MS Piráti Litomeřicko
+description: Vedoucí lesní správy Litoměřicko
 mail:
 - jindrich.pavek@pirati.cz
 mob:			  

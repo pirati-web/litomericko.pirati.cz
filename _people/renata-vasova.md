@@ -5,7 +5,7 @@ fullname: Mgr. Renata Kutina Vášová  	# jméno s tituly etc.
 category:
 - litkan                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/renata-vasova.jpg   # 165 x 220
-description: fundraiser Hospic sv. Štěpána
+description: Fundraiser Hospic sv. Štěpána
 mail:
 mob:
 profiles:
@@ -16,7 +16,7 @@ profiles:
 carousel:
   img: renata-vasova.jpg
   text:
-    <p><strong>fundraiser Hospic sv. Štěpána</strong>
+    <p><strong>Fundraiser Hospic sv. Štěpána</strong>
 ordlitkan: 4
 ---
 **Politická příslušnost:** Strana zelených

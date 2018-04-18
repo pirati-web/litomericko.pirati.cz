@@ -5,7 +5,7 @@ fullname: Ing. Jan Hrkal  	# jméno s tituly etc.
 category:
 - litkan                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/jan-hrkal.jpg   # 165 x 220
-description: pracující důchodce, technik ve státní správě
+description: Pracující důchodce, technik ve státní správě
 mail:
 mob:
 profiles:
@@ -16,7 +16,7 @@ profiles:
 carousel:
   img: jan-hrkal.jpg
   text:
-    <p><strong>pracující důchodce, technik ve státní správě</strong>
+    <p><strong>Pracující důchodce, technik ve státní správě</strong>
 ordlitkan: 10
 ---
 

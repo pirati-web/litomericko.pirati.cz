@@ -4,6 +4,7 @@ name:     Kateřina Stibalová	  	# běžně používáné jméno
 fullname: Kateřina Stibalová	  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
+- litkan
 img: people/katerina-stibalova.jpg   # 165 x 220
 description: Členka MS Piráti Litomeřicko
 mail:
@@ -14,5 +15,6 @@ profiles:
   facebook:
   twitter: 
   flickr:
+ordlitkan: 7
 ---
 

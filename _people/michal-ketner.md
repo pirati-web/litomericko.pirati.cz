@@ -9,7 +9,7 @@ category:                 # kategorie: rp, praha, vary, hradec, jmk, senat
 - pks
 - litkan
 img: people/michal-ketner.jpg   # 165 x 220
-description: Místopředseda MS Piráti Litoměřicko
+description: Penetrační tester
 mail:
 - michal.ketner@pirati.cz
 mob:			  +420 722 225 444
@@ -20,7 +20,7 @@ profiles:
   flickr: 
 ordga: 4
 ordpks: 4
-ordlitkan: 9
+ordlitkan: 11
 ---
 
 Narodil se 10.12.1990, je člen Rozhodčí komise a Garantem programového bodu Psychotropní látky. 

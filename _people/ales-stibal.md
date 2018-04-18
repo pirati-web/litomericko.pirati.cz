@@ -6,7 +6,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - litkan
 img: people/ales-stibal.jpg   # 165 x 220
-description: Místopředseda MS Piráti Litomeřicko
+description: Eskalační inženýr a trenér ve společnosti Fortinet, spoluvlastník Netlancers s.r.o.
 mail:
 - ales.stibal@pirati.cz
 mob:
@@ -15,6 +15,10 @@ profiles:
   facebook:
   twitter: 
   flickr:
+carousel:
+  img: ales-stibal.jpg
+  text:
+    <p><strong>Eskalační inženýr</strong>
 ordlitkan: 3
 ---
 **Politická příslušnost:** Piráti

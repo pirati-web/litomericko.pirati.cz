@@ -5,7 +5,7 @@ fullname: DiS. Filip Horák  	# jméno s tituly etc.
 category:
 - litkan                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/filip-horak.jpg   # 165 x 220
-description: člen subkomise dopravy Rady města
+description: Člen subkomise dopravy Rady města
 mail:
 mob:
 profiles:
@@ -16,7 +16,7 @@ profiles:
 carousel:
   img: filip-horak.jpg
   text:
-    <p><strong>člen subkomise dopravy Rady města</strong>
+    <p><strong>Člen subkomise dopravy Rady města</strong>
 ordlitkan: 8
 ---
  
