@@ -5,7 +5,7 @@ category: blog
 author:	  Mikuláš Peksa
 image:	  logo_pro_zahajeni_kampane.png
 tags:
-date:	  2018-04-16
+date:	  2018-04-19
 ---
 
 Česká Pirátská strana – MS Piráti Litoměřicko a Strana zelených – ZO Litoměřice
