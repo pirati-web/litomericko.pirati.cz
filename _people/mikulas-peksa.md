@@ -3,13 +3,7 @@ uid: mikulas.peksa
 name:     Mikuláš Peksa  	# běžně používáné jméno
 fullname: Mgr. Mikuláš Peksa  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- ga
-- rp
-- psp
 - ulk
-- pks
-- carousel
-- media
 - litkan
 img: people/mikulas-peksa.jpg   # 165 x 220
 description: Poslanec, programátor, biofyzik

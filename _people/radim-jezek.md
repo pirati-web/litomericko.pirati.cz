@@ -17,7 +17,7 @@ carousel:
   img: petr-panas.jpg
   text:
     <p><strong>Zastupitel města Litoměřice</strong>
-ordlitkan: 8
+ordlitkan: 10
 ---
 **Politická příslušnost:** Strana zelených
  

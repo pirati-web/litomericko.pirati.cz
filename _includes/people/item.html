@@ -9,7 +9,7 @@
         {% else %}
           {% assign url = item.url | relative_url %}
         {% endif %}
-        <a href="{{url}}">{% if item.name %}{{item.name}}{% else %}{{item.title}}{% endif %}</a>
+        <a href="{{url}}">{% if item.name %}{{item.ordlitkan}}. {{item.name}}{% else %}{{item.title}}{% endif %}</a>
       </h2>
       <p>{{item.description}}</p>
       {% if item.mob or item.mail %}

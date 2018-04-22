@@ -17,7 +17,7 @@ carousel:
   img: jan-hrkal.jpg
   text:
     <p><strong>Pracující důchodce, technik ve státní správě</strong>
-ordlitkan: 10
+ordlitkan: 12
 ---
 
 **Politická příslušnost:** Strana zelených

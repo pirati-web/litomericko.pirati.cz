@@ -4,6 +4,7 @@ name:     Lenka Simerská  	# běžně používáné jméno
 fullname: Mgr. Lenka Simerská  	# jméno s tituly etc.
 category:
 - litkan                 	# kategorie: rp, praha, vary, hradec, jmk, senat
+- carousel
 img: people/lenka-simerska.jpg   # 165 x 220
 description: Odborná garantka, Ministerstvo práce a sociálních věcí
 mail:

@@ -5,6 +5,7 @@ fullname: Ing. Jindřich Pávek  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - litkan
+- carousel
 img: people/jindrich-pavek.jpg   # 165 x 220
 description: Vedoucí lesní správy Litoměřicko
 mail:
@@ -18,7 +19,7 @@ profiles:
 ordlitkan: 1
 carousel:
   img: jindrich-pavek.jpg
-  text: 
+  text: Vedoucí lesní správy Litoměřicko
 ---
 
 **Politická příslušnost:** Piráti

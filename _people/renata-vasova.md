@@ -4,6 +4,7 @@ name:     Renata Vášová  	# běžně používáné jméno
 fullname: Mgr. Renata Kutina Vášová  	# jméno s tituly etc.
 category:
 - litkan                 	# kategorie: rp, praha, vary, hradec, jmk, senat
+- carousel
 img: people/renata-vasova.jpg   # 165 x 220
 description: Fundraiser Hospic sv. Štěpána
 mail:
