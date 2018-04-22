@@ -16,8 +16,7 @@ profiles:
   flickr:
 carousel:
   img: renata-vasova.jpg
-  text:
-    <p><strong>Fundraiser Hospic sv. Štěpána</strong>
+  text: Pokud chci něco ve svém okolí změnit, je třeba se aktivně zapojovat do aktivit a pozic, ze kterých mohu tyto změny ovlivňovat. Otevřenost, transparentnost, diskuse a rozvoj občanské společnosti, solidarity, aktivismu a komunit - tam bychom měli město směřovat.
 ordlitkan: 4
 ---
 **Politická příslušnost:** Strana zelených

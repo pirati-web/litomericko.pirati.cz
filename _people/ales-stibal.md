@@ -17,8 +17,7 @@ profiles:
   flickr:
 carousel:
   img: ales-stibal.jpg
-  text:
-    <p><strong>Eskalační inženýr</strong>
+  text: Doba se mění. Když jsem byl mladší, myslel jsem si, že (mi) stačí odvolit, projevit nějakou obecně směřovanou vůli a je to. Ale není. Politika se změnila k horšímu, ve prospěch populismu, polopravdám a manipulacím. Mě se to nelíbí, a nemůžu už nadále sledovat dění okolo mě, které ovlivní budoucnost mých dětí, aniž bych neměl pocit, že jsem mohl udělat více. Proto jsem se rozhodl se aktivně zapojit.
 ordlitkan: 3
 ---
 **Politická příslušnost:** Piráti

@@ -19,7 +19,7 @@ profiles:
 ordlitkan: 1
 carousel:
   img: jindrich-pavek.jpg
-  text: Vedoucí lesní správy Litoměřicko
+  text: Díky svým cestám a předchozím zaměstnáním jsem schopen vidět věci z jiného úhlu pohledu, vidět je očima mládí a zároveň posuzovat návrhy myslí člověka zodpovědného za přenechání krásné krajiny dalším generacím. A práce na radnici by měla být brána jako dlouhodobý závazek a přínos do budoucna nikoliv “po nás potopa” nebo si z radnice dělat dojnou krávu.
 ---
 
 **Politická příslušnost:** Piráti

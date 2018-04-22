@@ -4,8 +4,7 @@
       <img src="{{ person.img | prepend: '/assets/img/' | relative_url }}" alt="{{person.name}}"> </div>
     <div class="o-media__body">
       <h2 class="o-media__headline c-hero__subtitle">{{person.name}}</h2>
-      <h4><small>{{person.function}}</small></h4>
-      {{person.description}}
+      <i>{{person.carousel.text}}</i>
     </div>
   </div>
 </li>

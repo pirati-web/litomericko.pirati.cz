@@ -17,7 +17,6 @@ profiles:
 carousel:
   img: lenka-simerska.jpg
   text:
-    <p><strong>Odborná garantka, Ministerstvo práce a sociálních věcí</strong>
 ordlitkan: 2
 ---
 
