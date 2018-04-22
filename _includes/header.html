@@ -106,9 +106,11 @@
               <li{% if page.url contains 'lide' %} class="is-active"{% endif %}>
                 <a href="{{ '/lide/' | relative_url }}">Lidé</a>
               </li>
+{% comment %}
               <li{% if page.url contains 'program' %} class="is-active"{% endif %}>
                 <a href="{{ '/program/' | relative_url }}">Program</a>
               </li>
+{% endcomment %}
               <li{% if page.url contains 'kontakt' %} class="is-active"{% endif %}>
                 <a href="{{ '/kontakt/' | relative_url }}">Kontakt</a>
               </li>

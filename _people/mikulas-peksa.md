@@ -3,19 +3,13 @@ uid: mikulas.peksa
 name:     Mikuláš Peksa  	# běžně používáné jméno
 fullname: Mgr. Mikuláš Peksa  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- ga
-- rp
-- psp
 - ulk
-- pks
-- carousel
-- media
 - litkan
 img: people/mikulas-peksa.jpg   # 165 x 220
-description: Předseda místního sdružení
+description: Poslanec, programátor, biofyzik
 mail:
 - mikulas.peksa@pirati.cz
-mob: 605101249
+mob: +420 605 101 249
 profiles:
   github:       
   facebook:     https://www.facebook.com/mikulas.peksa
@@ -25,7 +19,7 @@ ordga: 9
 ordrp: 5
 ordpsp: 4
 ordpks: 2
-ordlitkan: 7
+ordlitkan: 9
 carousel:
   img: mikulas-peksa.jpg
   text: |
