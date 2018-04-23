@@ -26,6 +26,12 @@ carousel:
     <p><strong>Poslanec za Ústecký kraj</strong>
 ---
 
-Mikuláš Peksa (* 18. června 1986) je garantem zahraničního týmu Pirátů. Vystudoval Gymnázium Christiana Dopplera a Biofyziku na Matematicko-Fyzikální fakultě UK. V průběhu studia se specializoval na využití jaderné magnetické rezonance pro výzkum dynamiky tekutin v porézních materiálech. Před zvolením do poslanecké sněmovny pracoval jako programátor a správce linuxových serverů.
+**Politická příslušnost:** Piráti
+ 
+**Zaměstnání:** Poslanec, programátor, biofyzik
+
+**Proč kandiduji:** Chci propojit litoměřickou komunální politiku s politikou na celostátní úrovni. O našem městě, jeho problémech i přednostech by mělo být v poslanecké sněmovně slyšet.
+
+**Další informace:** Mikuláš Peksa je místopředsedou Pirátské strany a garantem zahraničně-politického programu Pirátů. Vystudoval Gymnázium Christiana Dopplera a Biofyziku na Matematicko-Fyzikální fakultě UK. V průběhu studia se specializoval na využití jaderné magnetické rezonance pro výzkum dynamiky tekutin v porézních materiálech. Před zvolením do poslanecké sněmovny pracoval jako programátor a správce linuxových serverů.
 
 Angažuje se v mezinárodních aktivitách Pirátů a tvorbě mezinárodně-politického programu. Mezi jeho zájmy patří kromě přírodních věd a IT také historie, filozofie, mezinárodní politika, LARPy a RPG.

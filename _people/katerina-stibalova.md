@@ -17,9 +17,9 @@ profiles:
   flickr:
 ordlitkan: 7
 ---
-**Politická příslušnost**: příznivec Pirátů
+**Politická příslušnost**: Piráti
 
-**Zaměstnání**: sociální pracovník, terapeut, adiktolog
+**Zaměstnání**: sociální pracovnice, terapeutka, adiktoložka
 
 **Proč kandiduji**: V Litoměřicích jsem vyrostla a přes 20 let zde pracuji s lidmi. Jsem jejich každodenní součástí a vadí mi politické směřování a způsob vedení našeho města. Z posledních let jsem získávala stále jasnější pocit o nárůstu vybraného směrování investic ve městě tak, aby finančně prosperovali pouze někteří vyvolení. Tato situace mě vybudila natolik, že již nechci jen přihlížet a stěžovat si. Jsem člověk pragmatický; vím, že se politické přemýšlení nezmění ze dne na den, ale chci této přeměně pomoci. Chci, aby všichni občané měli stejné možnosti, bez úplatků a “známých”. Chci měnit politiku ve městě tak, aby sousloví “zastupitel města” opravdu znamenalo, že při rozhodování myslím na město jako celek a nejen na své priority. 
 
