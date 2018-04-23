@@ -7,7 +7,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - litkan
 - carousel
 img: people/katerina-stojanova.jpg   # 165 x 220
-description: Členka MS Piráti Litomeřicko             	# kratký popis, max 160 znaků
+description: Studentka
 mail:
 - katerina-stojanova@pirati.cz
 mob:			  
