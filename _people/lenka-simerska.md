@@ -16,7 +16,7 @@ profiles:
   flickr:
 carousel:
   img: lenka-simerska.jpg
-  text:
+  text: Nestačí se dívat a pak kritizovat. Na mnoho věcí nestačí ani být občansky aktivní. Pokud chceme něco změnit, je potřeba použít politické nástroje. A proto kandiduji. Litoměřice mají obrovský potenciál být moderním, čistým a zdravým městem. Bohužel ale v mnohém zůstává u slov. Jsem aktivní ve veřejném prostoru poměrně dlouho. Zajímá mě, jak žijeme, co dýcháme, co jíme, jak rodíme a vzděláváme děti, jaké máme podmínky k práci. Pro město chci nabídnout svoje zkušenosti i odbornost.
 ordlitkan: 2
 ---
 
@@ -24,7 +24,7 @@ ordlitkan: 2
  
 **Zaměstnání:** Odborná garantka, Ministerstvo práce a sociálních věcí
 
-**Proč kandiduji:**
+**Proč kandiduji:** Nestačí se dívat a pak kritizovat. Na mnoho věcí nestačí ani být občansky aktivní. Pokud chceme něco změnit, je potřeba použít politické nástroje. A proto kandiduji. Litoměřice mají obrovský potenciál být moderním, čistým a zdravým městem. Bohužel ale v mnohém zůstává u slov. Jsem aktivní ve veřejném prostoru poměrně dlouho. Zajímá mě, jak žijeme, co dýcháme, co jíme, jak rodíme a vzděláváme děti, jaké máme podmínky k práci. Pro město chci nabídnout svoje zkušenosti i odbornost.
 
 **Další informace:** Vystudovala sociologii a sociální politiku na Fakultě sociálních věd Karlovy Univerzity v Praze. Pracuje jako socioložka s 15ti letou praxí ve zpracování výzkumů, analýz, evaluací, HR auditů, tvorbě metodik a expertní činnosti a také poradenství a lektorování pro soukromou i veřejnou sféru v ČR i v zahraničí. Působí v projektech pro zlepšování podmínek na trhu práce, rovné příležitosti, work-life balance a využití plného potenciálu lidských zdrojů. Od roku 2014 se navíc věnuje individuální koučovací praxi.
 Žije v Litoměřicích, kde se zapojuje do komunitních aktivit. Je organizátorkou pravidelné podzimní akce Umění Země, která spojuje umění s vnímáním přírody a relaxací pro celou rodinu. Organizuje a moderuje besedy k aktuálním otázkám. V roce 2009 dala impulz vzniku sdružení rodičů Waldorfská iniciativa Litoměřice o.s., kde také organizovala přednášky a vzdělávací a komunitní akce s tematikou výchovy.
