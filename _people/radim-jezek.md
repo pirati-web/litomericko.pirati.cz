@@ -10,14 +10,10 @@ mail:
 mob:
 profiles:
   github:
-  facebook:     https://www.facebook.com/petr.panas
+  facebook:
   twitter: 
   flickr:
-carousel:
-  img: petr-panas.jpg
-  text:
-    <p><strong>Zastupitel města Litoměřice</strong>
-ordlitkan: 10
+ordlitkan: 14
 ---
 **Politická příslušnost:** Strana zelených
  

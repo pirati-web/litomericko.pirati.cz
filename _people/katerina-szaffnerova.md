@@ -17,7 +17,7 @@ carousel:
   img: katerina-szaffnerova.jpg
   text:
     <p><strong>Třídní učitelka ve Svobodné základní škole, o.p.s.</strong>
-ordlitkan: 14
+ordlitkan: 18
 ---
  
 **Politická příslušnost:** Strana zelených
