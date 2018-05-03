@@ -1,7 +1,7 @@
 ---
 uid: lenka.simerska
 name:     Lenka Simerská  	# běžně používáné jméno
-fullname: Mgr. Lenka Simerská  	# jméno s tituly etc.
+fullname: PhDr. Lenka Simerská  	# jméno s tituly etc.
 category:
 - litkan                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - carousel

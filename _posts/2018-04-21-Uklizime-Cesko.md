@@ -4,7 +4,7 @@ layout:	  post
 category: blog
 author:	  Petr Panaš
 image:	  uklizime_cesko.jpg
-tags:
+tags:	  úklid
 date:	  2018-04-21
 ---
 
