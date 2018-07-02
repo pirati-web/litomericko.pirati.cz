@@ -17,7 +17,7 @@ ordlitkan: 14
 ---
 **Politická příslušnost:** Strana zelených
  
-**Zaměstnání:** Pracuji jako vedoucí oddělení řízení kvality u firmy Chládek & Tintěra, a.s., kdy mojí náplní práce je podniková ekologie, životní prostředí, odpadové hospodářství, BOZP a ISO.
+**Zaměstnání:** vedoucí oddělení řízení kvality
  
 **Proč kandiduji:** U Zelených jsem od r. 2014, kdy jsem se rozhodl vstoupit do strany před komunálními volbami. Přišlo mě správné, když už za nějakou stranu kandiduji, tak být jejím členem. Co chci prosazovat v komunální politice. Určitě to bude důraz na životní prostředí. Proto bych se po volbách v roce 2018 rád zapojil do činnosti komise životního prostředí. Jezdím ve volném čase na kole a vnímám, že je v našem městě prostor na mnoho vylepšení v cyklodopravě. Tomu bych se také rád věnoval.
  

@@ -6,7 +6,7 @@ category:
 - litkan                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - carousel
 img: people/renata-vasova.jpg   # 165 x 220
-description: Fundraiserka v Hospicu sv. Štěpána
+description: fundraiserka v Hospicu sv. Štěpána
 mail:
 mob:
 profiles:

@@ -7,7 +7,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - litkan
 - carousel
 img: people/katerina-stojanova.jpg   # 165 x 220
-description: Studentka
+description: studentka
 mail:
 - katerina-stojanova@pirati.cz
 mob:			  
@@ -23,7 +23,7 @@ ordlitkan: 5
 ---
 **Politická příslušnost**: Piráti
  
-**Zaměstnání**: Studentka
+**Zaměstnání**: studentka
  
 **Proč kandiduji**: Věřím, že Litoměřice dokáží být místem pro spokojený život obyvatel všech věkových kategorií a proto by každá takováto věková skupina měla mít v našem zastupitelstvu své zastoupení. Můj nízký věk mě zvýhodňuje v tom, že se pohybuji mezi mladými Litoměřičany, znám jejich problémy a tužby s městem spojené a chtěla bych tak být spojkou mezi nimi a vedením města. Jsem přesvědčená, že mladí jsou budoucností našeho města a měli by tak dostat podíl na místním rozhodování. 
  

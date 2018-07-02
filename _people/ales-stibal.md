@@ -6,7 +6,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - litkan
 img: people/ales-stibal.jpg   # 165 x 220
-description: Eskalační inženýr a trenér ve společnosti Fortinet, spoluvlastník Netlancers s.r.o.
+description: eskalační inženýr a trenér ve společnosti Fortinet, spoluvlastník Netlancers s.r.o.
 mail:
 - ales.stibal@pirati.cz
 mob:
@@ -22,7 +22,7 @@ ordlitkan: 3
 ---
 **Politická příslušnost:** Piráti
  
-**Zaměstnání:** Eskalační inženýr a trenér ve společnosti Fortinet, spoluvlastník Netlancers s.r.o.
+**Zaměstnání:** eskalační inženýr a trenér ve společnosti Fortinet, spoluvlastník Netlancers s.r.o.
  
 **Proč kandiduji:** Doba se mění. Když jsem byl mladší, myslel jsem si, že (mi) stačí odvolit, projevit nějakou obecně směřovanou vůli a je to. Ale není. Politika se změnila k horšímu, ve prospěch populismu, polopravdám a manipulacím. Mě se to nelíbí, a nemůžu už nadále sledovat dění okolo mě, které ovlivní budoucnost mých dětí, aniž bych neměl pocit, že jsem mohl udělat více. Proto jsem se rozhodl se aktivně zapojit.
  
