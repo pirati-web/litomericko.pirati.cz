@@ -22,7 +22,7 @@ ordlitkan: 8
  
 **Politická příslušnost:** Strana zelených
  
-**Zaměstnání:** uvidím, co se do uzávěrky kandidátky objeví, momentálně ÚP
+**Zaměstnání:** přípravář staveb
  
 **Proč kandiduji:** Pro lepší život je potřeba se do okolního dění zapojovat a pomáhat. A rozvíjet společný prostor. Mrzí mě přehlížení potenciálu vlastních obyvatel odpovědnými úředníky a neefektivní vysávání rozpočtů města radními. Mysleme na budoucnost, nežijme pro hodnotící tabulky a minulost!
  

@@ -6,7 +6,7 @@ category:
 - litkan                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - carousel
 img: people/renata-vasova.jpg   # 165 x 220
-description: Fundraiserka v Hospicu sv. Štěpána
+description: fundraiserka v Hospicu sv. Štěpána
 mail:
 mob:
 profiles:
@@ -20,8 +20,8 @@ carousel:
 ordlitkan: 4
 ---
 **Politická příslušnost:** Strana zelených
- 
-**Zaměstnání:** fundraiser Hospic sv. Štěpána
+
+**Zaměstnání:** fundraiserka Hospic sv. Štěpána
  
 **Proč kandiduji:** Pokud chci něco ve svém okolí změnit, je třeba se aktivně zapojovat do aktivit a pozic, ze kterých mohu tyto změny ovlivňovat. Otevřenost, transparentnost, diskuse a rozvoj občanské společnosti, solidarity, aktivismu a komunit - tam bychom měli město směřovat.
  

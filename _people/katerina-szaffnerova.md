@@ -5,7 +5,7 @@ fullname: Mgr. Kateřina Szaffnerová  	# jméno s tituly etc.
 category:
 - litkan                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/katerina-szaffnerova.jpg   # 165 x 220
-description: Učitelka ve Svobodné základní škole
+description: učitelka ve Svobodné základní škole
 mail:
 mob:
 profiles:
@@ -22,7 +22,7 @@ ordlitkan: 18
  
 **Politická příslušnost:** Strana zelených
 
-**Zaměstnání:** Třídní učitelka ve Svobodné základní škole, o.p.s.
+**Zaměstnání:** třídní učitelka ve Svobodné základní škole, o.p.s.
 
 **Proč kandiduji:** Již řadu let se zabývám alternativním školstvím a není mi lhostejný stav veřejných škol na Litoměřicku. Svou prací pomáhám vést jedinou waldorfskou školu v Ústeckém kraji.
 

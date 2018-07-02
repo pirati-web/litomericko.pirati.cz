@@ -6,7 +6,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - litkan
 img: people/mikulas-peksa.jpg   # 165 x 220
-description: Poslanec, programátor, biofyzik
+description: poslanec, programátor, biofyzik
 mail:
 - mikulas.peksa@pirati.cz
 mob: +420 605 101 249
@@ -28,7 +28,7 @@ carousel:
 
 **Politická příslušnost:** Piráti
  
-**Zaměstnání:** Poslanec, programátor, biofyzik
+**Zaměstnání:** poslanec, programátor, biofyzik
 
 **Proč kandiduji:** Chci propojit litoměřickou komunální politiku s politikou na celostátní úrovni. O našem městě, jeho problémech i přednostech by mělo být v poslanecké sněmovně slyšet.
 

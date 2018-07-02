@@ -6,7 +6,7 @@ category:
 - litkan                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - carousel
 img: people/lenka-simerska.jpg   # 165 x 220
-description: Odborná garantka, Ministerstvo práce a sociálních věcí
+description: odborná garantka, Ministerstvo práce a sociálních věcí
 mail:
 mob:
 profiles:
@@ -22,7 +22,7 @@ ordlitkan: 2
 
 **Politická příslušnost:** Strana zelených
  
-**Zaměstnání:** Odborná garantka, Ministerstvo práce a sociálních věcí
+**Zaměstnání:** odborná garantka, Ministerstvo práce a sociálních věcí
 
 **Proč kandiduji:** Nestačí se dívat a pak kritizovat. Na mnoho věcí nestačí ani být občansky aktivní. Pokud chceme něco změnit, je potřeba použít politické nástroje. A proto kandiduji. Litoměřice mají obrovský potenciál být moderním, čistým a zdravým městem. Bohužel ale v mnohém zůstává u slov. Jsem aktivní ve veřejném prostoru poměrně dlouho. Zajímá mě, jak žijeme, co dýcháme, co jíme, jak rodíme a vzděláváme děti, jaké máme podmínky k práci. Pro město chci nabídnout svoje zkušenosti i odbornost.
 

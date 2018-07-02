@@ -5,7 +5,7 @@ fullname: Mgr. Petr Panaš  	# jméno s tituly etc.
 category:
 - litkan                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/petr-panas.jpg   # 165 x 220
-description: Vedoucí odboru MěÚ Terezín
+description: vedoucí odboru MěÚ Terezín
 mail:
 mob:
 profiles:
@@ -22,7 +22,7 @@ ordlitkan: 6
 
 **Politická příslušnost:** Strana zelených
  
-**Zaměstnání:** Vedoucí odboru MěÚ Terezín
+**Zaměstnání:** vedoucí odboru MěÚ Terezín
  
 **Proč kandiduji:** Mohu nabídnout zkušenosti z veřejné správy z pozice úředníka, komunálního politika a člena neziskových organizací. V současnosti jsem opoziční zastupitel a člen kontrolního výboru. Vím, co je třeba v Litoměřicích změnit, aby to tu fungovalo lépe.
  
