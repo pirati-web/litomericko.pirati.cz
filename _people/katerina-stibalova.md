@@ -6,7 +6,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - litkan
 img: people/katerina-stibalova.jpg   # 165 x 220
-description: sociální pracovník, terapeut, adiktolog
+description: sociální pracovnice, terapeut, adiktolog
 mail:
 - katerina.stibalova@pirati.cz
 mob:
