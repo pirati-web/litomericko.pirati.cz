@@ -17,6 +17,6 @@ carousel:
   img: 
   text:
     <p><strong></strong>
-#ordlitkan: 18
+ordlitkan: 24
 ---
 

@@ -19,7 +19,7 @@ ordga: 9
 ordrp: 5
 ordpsp: 4
 ordpks: 2
-ordlitkan: 9
+ordlitkan: 23
 carousel:
   img: mikulas-peksa.jpg
   text: |

@@ -17,6 +17,6 @@ carousel:
   img: borek-franek.jpg
   text:
     <p><strong></strong>
-#ordlitkan: 16
+ordlitkan: 27
 ---
 

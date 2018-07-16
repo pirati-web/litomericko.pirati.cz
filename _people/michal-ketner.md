@@ -20,7 +20,7 @@ profiles:
   flickr: 
 ordga: 4
 ordpks: 4
-ordlitkan: 11
+ordlitkan: 5
 ---
 
 Narodil se 10.12.1990, je člen Rozhodčí komise a Garantem programového bodu Psychotropní látky. 
