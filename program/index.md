@@ -1,5 +1,6 @@
 ---
 layout: page
+rbar: toc
 ---
 
 ### Transparentní radnice
