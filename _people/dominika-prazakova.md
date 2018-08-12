@@ -6,9 +6,8 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - litkan
 img: people/dominika-prazakova.jpg   # 165 x 220
-description: sociální pracovnice, terapeut, adiktolog
+description: na volné noze
 mail:
-- katerina.stibalova@pirati.cz
 mob:
 profiles:
   github:
