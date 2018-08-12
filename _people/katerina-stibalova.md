@@ -1,7 +1,7 @@
 ---
 uid: katerina.stibalova
 name:     Kateřina Stibalová	  	# běžně používáné jméno
-fullname: Kateřina Stibalová	  	# jméno s tituly etc.
+fullname: Mgr. Kateřina Stibalová	  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - litkan

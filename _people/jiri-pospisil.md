@@ -1,11 +1,11 @@
 ---
-uid: jan.hrkal
-name:    Jan Hrkal  	# běžně používáné jméno
-fullname: Ing. Jan Hrkal  	# jméno s tituly etc.
+uid: jiri.pospisil
+name:     Jiří Pospíšil  	# běžně používáné jméno
+fullname: Jiří Pospíšil	# jméno s tituly etc.
 category:
-#- litkan                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-img: people/jan-hrkal.jpg   # 165 x 220
-description: pracující důchodce, technik ve státní správě
+- litkan                 	# kategorie: rp, praha, vary, hradec, jmk, senat
+img: people/man-placeholder.png   # 165 x 220
+description: OSVČ, zahradník
 mail:
 mob:
 profiles:
@@ -13,21 +13,18 @@ profiles:
   facebook:
   twitter: 
   flickr:
-carousel:
-  img: jan-hrkal.jpg
-  text:
-    <p><strong>pracující důchodce, technik ve státní správě</strong>
-ordlitkan: 10
+#carousel:
+#  img: filip-horak.jpg
+#  text:
+#    <p><strong>Člen subkomise dopravy Rady města</strong>
+ordlitkan: 25
 ---
-
-**Politická příslušnost:** Strana zelených
-
-**Zaměstnání:** pracující důchodce, technik ve státní správě
  
-**Proč kandiduji:** „Vadí mi upřednostňování osobních a skupinových (klientelismus) zájmů na úkor rozvoje města a jeho občanů. Personálně nemám rád hlupáky a arogantní jednání. V současnosti jsem opoziční zastupitel a člen sportovní komise.  Chci změnu - nesyslit, ale sloužit.
- 
-**Další informace:** Kromě velké rodiny (1+3+2+1 = žena, synové, vnučky, vnuk) je můj zájem zaměřen na pohyb, sport a jeho podporu  - předseda TJ Sokol Pokratice – Litoměřice z.s. a cvičitel. Dále mě baví cestování, práce v přírodě a četba.
-Vzdělání: VŠ – elektrofakulta VA Brno – počítače. Postgraduál ČVUT a VŠE Praha - specializace na projektování velkých systémů, analýzu a řízení. Práce v městské samosprávě od r. 1990 jako nezávislý. Od roku 2008 člen Strany zelených.
-Moje výzvy a témata :  podpora zdraví a pohybových aktivit  bez rozdílu věku a sociálních podmínek, udržitelný rozvoj, efektivní hospodaření, aktivizace občanství jako základní podmínka rozvoje města.
+**Politická příslušnost:** nezávislý za Zelené
 
+**Zaměstnání**: OSVČ, zahradník
+
+**Proč kandiduji**: Protože mám vizi světa, ve kterém bych chtěl žít a jsem vděčný, že žiji ve společenském systému, který dosud každému člověku umožňuje se o tuto vizi zasadit. Podtrhl bych, že možnost občana spolupodílet se není odvěké právo a je třeba tyto atributy demokracie neustále hájit.Toto moje angažmá je občanské minimum, které mohu udělat.
+ 
+Na základě svých zkušeností jsem dospěl k závěru, že to co na městské demokracii nejvíce kulhá, je právo občana na informaci. Na nezkreslenou informaci zájmovými skupinami. Bez toho se občan nemá šanci ve volbách správně rozhodnout, kdo ho má zastupovat. Radniční zpravodaj, který ze zákona k tomu má sloužit, neplní tuto veřejnoprávní funkci! 
 

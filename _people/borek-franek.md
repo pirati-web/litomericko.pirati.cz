@@ -1,11 +1,11 @@
 ---
 uid: borek.franek
 name:     Bořek Franěk  	# běžně používáné jméno
-fullname: Bořek Franěk
+fullname: Ing. Bořek Franěk
 category:
-#- litkan                 	# kategorie: rp, praha, vary, hradec, jmk, senat
+- litkan                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/borek-franek.jpg   # 165 x 220
-description: 
+description: specialista provozně-technické činnosti v SČVK, předseda Asociace strážců přírody ČR, člen výboru ČSOP Litoměřice
 mail:
 mob:
 profiles:
@@ -13,10 +13,13 @@ profiles:
   facebook:
   twitter: 
   flickr:
-carousel:
-  img: borek-franek.jpg
-  text:
-    <p><strong></strong>
+#carousel:
+#  img: borek-franek.jpg
+#  text:
+#    <p><strong></strong>
 ordlitkan: 27
 ---
 
+**Politická příslušnost:** nezávislý za Zelené
+
+**Zaměstnání**: specialista provozně-technické činnosti v SČVK, předseda Asociace strážců přírody ČR, člen výboru ČSOP Litoměřice

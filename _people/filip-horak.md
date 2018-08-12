@@ -1,7 +1,7 @@
 ---
 uid: filip.horak
 name:     Filip Horák  	# běžně používáné jméno
-fullname: DiS. Filip Horák  	# jméno s tituly etc.
+fullname: Filip Horák, DiS.  	# jméno s tituly etc.
 category:
 - litkan                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/filip-horak.jpg   # 165 x 220

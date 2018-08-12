@@ -8,7 +8,7 @@ category:                 # kategorie: rp, praha, vary, hradec, jmk, senat
 - ga
 - pks
 - litkan
-img: people/michal-ketner.jpg   # 165 x 220
+img: people/man-placeholder.png   # 165 x 220
 description: Penetrační tester
 mail:
 - michal.ketner@pirati.cz
