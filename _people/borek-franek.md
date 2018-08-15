@@ -1,7 +1,7 @@
 ---
 uid: borek.franek
-name:     Bořek Franěk  	# běžně používáné jméno
-fullname: Ing. Bořek Franěk
+name:     Borek Franěk  	# běžně používáné jméno
+fullname: Ing. Borek Franěk
 category:
 - litkan                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/borek-franek.jpg   # 165 x 220

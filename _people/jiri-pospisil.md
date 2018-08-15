@@ -4,7 +4,7 @@ name:     Jiří Pospíšil  	# běžně používáné jméno
 fullname: Jiří Pospíšil	# jméno s tituly etc.
 category:
 - litkan                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-img: people/man-placeholder.png   # 165 x 220
+img: people/jiri-pospisil.jpg   # 165 x 220
 description: OSVČ, zahradník
 mail:
 mob:
