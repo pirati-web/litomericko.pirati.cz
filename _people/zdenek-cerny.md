@@ -13,13 +13,13 @@ profiles:
   facebook:
   twitter: 
   flickr:
-#carousel:
-#  img: filip-horak.jpg
-#  text:
-#    <p><strong>Člen subkomise dopravy Rady města</strong>
 ordlitkan: 26
 ---
  
 **Politická příslušnost:** nezávislý za Zelené
 
-**Zaměstnání**: realitní makléř
+**Zaměstnání**: realitní makléř, tuto profesi vykonávám v našem regionu již 25 let.
+
+**Proč kandiduji**: Není mi lhostejné, co se kolem nás děje. Hodně věcí je možné ovlivnit z pozice běžného občana. Ale mnohem více z politické pozice, a to ať už v dobrém nebo špatném. Proto se aktivně o komunální politiku zajímám a opakovaně pomáhám alespoň svou kandidaturou a samozřejmě prací v orgánech města. Aktuálně jsem členem majetkové komise, předtím jsem působil v komisi bytové. Rád bych na obdobných pozicích pomáhal i nadále. 
+
+**Další informace**: Zajímám se o přírodu, které v rámci svých možností pomáhám, byť třeba jen úklidem odpadků na procházkách. Dále rád sportuji. Sportovních aktivit mám hodně, ale pouze rekreačně. 
