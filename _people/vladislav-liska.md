@@ -15,7 +15,7 @@ profiles:
   flickr:
 ordlitkan: 16
 ---
-**Politická příslušnost:** bez politické příslušnosti
+**Politická příslušnost:** nezávislý za Zelené
 
 **Zaměstnání:** majitel tiskárny
 

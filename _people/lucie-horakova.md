@@ -20,7 +20,7 @@ carousel:
 ordlitkan: 12
 ---
  
-**Politická příslušnost:** nezávislá, nominovaná Stranou zelených Litoměřice
+**Politická příslušnost:** nezávislá za Zelené
 
 **Zaměstnání:** Lékařka EUC Klinika Ústí nad Labem, odbornosti – rehabilitace, konzervativní podiatrie, sportovní medicína
 

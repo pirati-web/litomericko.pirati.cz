@@ -16,7 +16,7 @@ profiles:
   flickr:
 ordlitkan: 17
 ---
-**Politická příslušnost**: Nezávislá za Piráty
+**Politická příslušnost**: nezávislá za Piráty
 
 **Zaměstnání**: na volné noze
 
