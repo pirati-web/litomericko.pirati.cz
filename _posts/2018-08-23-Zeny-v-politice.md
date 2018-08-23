@@ -13,7 +13,7 @@ Jaké jsou příběhy a zkušenosti žen, které působí v politických pozicí
 
 Na všechny tyto otázky budeme hledat odpovědi v otevřené a neformální debatě s úspěšnými političkami a inspirativními ženami. Muži, kteří fandí ženám v politice a veřejném životě, jsou vítáni!
 
-* OLGA RICHTEROVÁ, poslankyně za Piraty
+* OLGA RICHTEROVÁ, poslankyně za Piráty
 * MICHAELA MARKSOVÁ, bývalá ministryně práce a sociálních věcí, členka předsednictva ČSSD
 * MICHAELA TEJMLOVÁ zastupitelka v Jablonci nad Nisou, kandidátka do Senátu 2018
 * EVA OUTLÁ starostka MO Střekov, Ústí nad Labem 
