@@ -13,7 +13,7 @@ profiles:
   facebook:
   twitter: 
   flickr:
-ordlitkan: 26
+ordlitkan: 25
 ---
  
 **Politická příslušnost:** nezávislý za Zelené

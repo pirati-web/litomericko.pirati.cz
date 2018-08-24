@@ -17,7 +17,7 @@ carousel:
   img: 
   text:
     <p><strong></strong>
-ordlitkan: 24
+ordlitkan: 23
 ---
 **Politická příslušnost:** Strana zelených
  

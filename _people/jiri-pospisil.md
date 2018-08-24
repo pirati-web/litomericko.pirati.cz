@@ -17,7 +17,7 @@ profiles:
 #  img: filip-horak.jpg
 #  text:
 #    <p><strong>Člen subkomise dopravy Rady města</strong>
-ordlitkan: 25
+ordlitkan: 24
 ---
  
 **Politická příslušnost:** nezávislý za Zelené

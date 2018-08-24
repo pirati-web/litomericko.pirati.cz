@@ -16,7 +16,7 @@ profiles:
 #carousel:
 #  img: 
 #  text: 
-ordlitkan: 19
+ordlitkan: 18
 ---
 **Politická příslušnost**: nezávislá za Piráty
  

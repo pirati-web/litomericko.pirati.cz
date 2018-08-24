@@ -16,7 +16,7 @@ profiles:
 #carousel:
 #  img: 
 #  text: 
-ordlitkan: 20
+ordlitkan: 19
 ---
 **Politická příslušnost**: nezávislá za Zelené
  

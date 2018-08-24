@@ -14,7 +14,7 @@ profiles:
   facebook:
   twitter: 
   flickr:
-ordlitkan: 17
+ordlitkan: 16
 ---
 **Politická příslušnost**: nezávislá za Piráty
 

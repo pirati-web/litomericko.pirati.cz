@@ -17,7 +17,7 @@ profiles:
 #  img: borek-franek.jpg
 #  text:
 #    <p><strong></strong>
-ordlitkan: 27
+ordlitkan: 26
 ---
 
 **Politická příslušnost:** nezávislý za Zelené
