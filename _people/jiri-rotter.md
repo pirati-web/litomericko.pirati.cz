@@ -4,7 +4,7 @@ name:     Jiří Rotter  	# běžně používáné jméno
 fullname: Jiří Rotter  	# jméno s tituly etc.
 category:
 - litkan                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-img: people/man-placeholder.png   # 165 x 220
+img: people/jiri-rotter.jpg   # 165 x 220
 description:  vývojář manipulační techniky - elektrotechnik
 mail:
 mob:
@@ -13,10 +13,6 @@ profiles:
   facebook:
   twitter: 
   flickr:
-#carousel:
-#  img: filip-horak.jpg
-#  text:
-#    <p><strong>Člen subkomise dopravy Rady města</strong>
 ordlitkan: 11
 ---
 
