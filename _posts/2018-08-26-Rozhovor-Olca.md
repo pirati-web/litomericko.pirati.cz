@@ -1,5 +1,5 @@
 ---
-title:	  'Ženy v politice a veřejném životě Ústeckého kraje'
+title:	  'Rozhovor s Olgou Richterovou'
 layout:	  post
 category: blog
 author:	  Pirátské listy
@@ -7,9 +7,6 @@ image:	  olga-richterova.jpg
 tags:	  koalice
 date:	  2018-08-26
 ---
-
-### Rozhovor s Olgou Richterovou, 1. místopředsedkyní Pirátů
-
 *Jak se díváš na nízké procento žen ve vrcholové politice, potažmo na nízký zájem žen o politiku obecně?*
 
 Dnes už se dívám zevnitř. Pozoruji, jak hodně kolektivu prospívá, když je smíšený. Ostatně, stejné tak tomu politickému společenství svědčí i jiná rozmanitost - věková, místní, životní... V rozhodování o tom, co se děje s naším zdravotnickým a sociálním systémem a kam míří z obcí a krajů peníze určené pro mateřské a základní školy, bych si přála víc žen (které tu práci reálně vykonávají). 
