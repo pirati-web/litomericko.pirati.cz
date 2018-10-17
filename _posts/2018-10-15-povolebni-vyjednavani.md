@@ -3,7 +3,7 @@ title:    "Povolební vyjednávání Zelených a Pirátů ke dni 15. 10. 2018 "
 layout:	  post
 category: blog
 author:	  "Kateřina Stojanová"
-image:	  
+image:	 litomerice-2.jpg  
 tags:	  koalice
 date:	  2018-10-15
 ---
