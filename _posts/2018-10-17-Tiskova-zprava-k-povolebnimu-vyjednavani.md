@@ -3,7 +3,7 @@ title:    "Tisková zpráva k aktuální situaci povolebního vyjednávání"
 layout:	  "post"
 category: "blog"
 author:	  "Kateřina Stojanová"
-image:	  
+image:	 litomerice.jpg 
 tags:	  "koalice"
 date:	  2018-10-17
 ---
