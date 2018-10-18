@@ -19,3 +19,6 @@ Nekvitujeme ani kumulaci funkcí, která vznikne u potenciálních místostarost
 “Ve vedeních měst se historicky již mnohokrát prokázalo, že souběžnost jednotlivých politických pověření je neefektivní a z dlouhodobého hlediska nepřináší užitek,” okomentoval skutečnost lídr zeleno-pirátské kandidátky Aleš Stibal.
 
 Zelení a Piráti budou nicméně nadále trvat na svých vybraných pozicích ve výborech a komisích, a to zejména na funkci předsedy kontrolního výboru, kterou by měl ideálně zastávat pirátský nominant Aleš Stibal. 
+
+EDIT:
+Ladislav Chlupáč, lídr ODS, se dnes, 18. 10. 2018, telefonicky spojil s Ales Stibal a za skutečnost, že nás o vzniku nové koalice neinformoval dle předchozí domluvy, se omluvil. Snažíme se být opozicí konstruktivní, proto omluvu přijímáme a panu Chlupáčovi za ní děkujeme. 
