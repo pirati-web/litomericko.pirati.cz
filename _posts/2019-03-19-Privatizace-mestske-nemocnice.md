@@ -24,7 +24,7 @@ Pochybně působilo i samotné koncesní řízení v minulém roce, v němž neb
 
 Pirátský zastupitel **Aleš Stibal** k tomu říká: 
 
-> *Návrh sledujeme a v případě pochybností o procesu činit příslušné kroky. Rada musí transparentně zdůvodnit svůj postup.*
+> *Návrh sledujeme a v případě pochybností o procesu budeme činit příslušné kroky. Rada musí transparentně zdůvodnit svůj postup.*
 
 ___
 
