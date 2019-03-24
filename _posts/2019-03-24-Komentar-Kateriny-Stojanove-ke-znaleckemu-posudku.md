@@ -5,7 +5,7 @@ category: blog
 author:	  Kateřina Stojanová
 image:	  katerina-stojanova.jpg
 tags:	  nemocnice
-date:	  2019-03-24
+date:	  2019-03-23
 ---
 Rada města Litoměřice chce zjevně zprivatizovat městskou nemocnici. A nestydí se při tom zpochybňovat existující znalecký posudek, který jasně říká, že je to zbytečné.
 
