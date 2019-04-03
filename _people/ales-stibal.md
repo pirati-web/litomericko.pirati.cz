@@ -5,6 +5,7 @@ fullname: Aleš Stibal	  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - litkan
+- clen
 img: people/ales-stibal.jpg   # 165 x 220
 description: eskalační inženýr a trenér ve společnosti Fortinet, spoluvlastník Netlancers s.r.o.
 mail:
@@ -20,8 +21,6 @@ carousel:
   text: Doba se mění. Když jsem byl mladší, myslel jsem si, že (mi) stačí odvolit, projevit nějakou obecně směřovanou vůli a je to. Ale není. Politika se změnila k horšímu, ve prospěch populismu, polopravdám a manipulacím. Mě se to nelíbí, a nemůžu už nadále sledovat dění okolo mě, které ovlivní budoucnost mých dětí, aniž bych neměl pocit, že jsem mohl udělat více. Proto jsem se rozhodl se aktivně zapojit.
 ordlitkan: 1
 ---
-**Politická příslušnost:** Piráti
- 
 **Zaměstnání:** eskalační inženýr a trenér ve společnosti Fortinet, spoluvlastník Netlancers s.r.o.
  
 **Proč kandiduji:** Doba se mění. Když jsem byl mladší, myslel jsem si, že (mi) stačí odvolit, projevit nějakou obecně směřovanou vůli a je to. Ale není. Politika se změnila k horšímu, ve prospěch populismu, polopravdám a manipulacím. Mě se to nelíbí, a nemůžu už nadále sledovat dění okolo mě, které ovlivní budoucnost mých dětí, aniž bych neměl pocit, že jsem mohl udělat více. Proto jsem se rozhodl se aktivně zapojit.
@@ -29,7 +28,6 @@ ordlitkan: 1
 **Další informace:** Původně jsem ze Štětí, do Litoměřic jsem se přiženil. Celý můj profesní život jse pohybuji v oblasti sítí a programování (C/C++/Python). Jsem autorem několika svobodných open-source projektů, například smithproxy.
 Po určité době jsem se rozhodl vzít svůj život do vlastních rukou, a založil jsem s kamarády firmu Netlancers, sídlo má v Litoměřicích, možná ji znáte. Po několika letech jsem ji ale musel bohužel opustit, a nastoupil jsem do Fortinetu.
 Zde jsem si prošel role nižší technické a manažerské, až po veskrze hodně technickou až lektorskou, na které se nacházím nyní (můžete se podívat na můj linkedin). Často pracovně cestuji, hlavně v oblasti Evropy (Francie, Německo, UK), ale občas i dál (USA, Indie). 
-
 
 Ve volném čase, pokud nejsem s rodinou (manželka Katka a synkové Filip a Vojta), nebo nevylepšuji nějaký můj projekt, můžu být např. v “posilce”. Na plachtění mi už moc času nezbývá, což je škoda.
 

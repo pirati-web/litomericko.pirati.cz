@@ -3,8 +3,8 @@ uid: mikulas.peksa
 name:     Mikuláš Peksa  	# běžně používáné jméno
 fullname: Mgr. Mikuláš Peksa  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- ulk
 - litkan
+- clen
 img: people/mikulas-peksa.jpg   # 165 x 220
 description: poslanec, programátor, biofyzik
 mail:
@@ -25,9 +25,6 @@ carousel:
   text: |
     <p><strong>Poslanec za Ústecký kraj</strong>
 ---
-
-**Politická příslušnost:** Piráti
- 
 **Zaměstnání:** poslanec, programátor, biofyzik
 
 **Proč kandiduji:** Chci propojit litoměřickou komunální politiku s politikou na celostátní úrovni. O našem městě, jeho problémech i přednostech by mělo být v poslanecké sněmovně slyšet.

@@ -12,7 +12,7 @@ layout: default
                           <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                               <li class="c-simple-accordion-item  is-active" data-accordion-item="">
                                   <div id="cleni" class="c-simple-accordion-content" data-tab-content="">
-                                        {% assign team = site.people | where_exp:"item","item.categories contains 'litkan'"| sort:"ordlitkan" %}
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'clen'"| sort:"ordclen" %}
                                         {% include people/list-2col.html param=team %}
                                   </div>
                               </li>

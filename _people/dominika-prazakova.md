@@ -5,6 +5,7 @@ fullname: Dominika Pražáková, DiS  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - litkan
+- priznivec
 img: people/dominika-prazakova.jpg   # 165 x 220
 description: na volné noze
 mail:

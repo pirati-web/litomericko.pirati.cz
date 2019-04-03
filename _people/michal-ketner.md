@@ -3,10 +3,8 @@ uid: michal.ketner
 name:     Michal Ketner  # běžně používáné jméno
 fullname: Michal Ketner  # jméno s tituly etc.
 category:                 # kategorie: rp, praha, vary, hradec, jmk, senat
-- rk
-- ulk
-- ga
-- pks
+- clen
+- pms
 - litkan
 img: people/man-placeholder.png   # 165 x 220
 description: Penetrační tester
