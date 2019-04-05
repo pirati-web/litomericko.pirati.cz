@@ -8,7 +8,7 @@ tags:	  nemocnice
 date:	  2019-04-03
 ---
 V souvislosti s řadou nevyjasněných bodů ohledně dalšího nakládání s litoměřickou nemocnicí jsme se rozhodli využít práva na svobodný přístup k informacím dle zákona č. 106/1999 Sb. a získat od Městského úřadu klíčové informace, které se k případu vztahují. 
-Ze zaslaných odpovědí vzešlo, že jednání Rady města, ve kterém byl schválen onen bod o vypracování studie na prodej 100% akcií Nemocnice Litoměřice a.s., o kterém jsme vás informovali v předešlém týdnu, se účastnili **Mgr. Petr Hošek (Severočeši Litoměřice), PhDr. Filip Hrbek (ODS), Mgr. Karel Krejza (ODS), MUDr. Petr Kubec (ODS), Ing. Radek Lončák MBA (ODS) a Lukas Wünsch (Severočeši Litoměřice)**.
+Ze zaslaných odpovědí vzešlo, že jednání Rady města, ve kterém byl schválen onen bod o vypracování studie na prodej 100% akcií Nemocnice Litoměřice a.s., o kterém jsme vás informovali v předešlém týdnu, se účastnili **Mgr. Petr Hošek (Severočeši Litoměřice), PhDr. Filip Hrbek (ODS), Mgr. Karel Krejza (ODS), MUDr. Petr Kubec (nestraník, v radě za ODS), Ing. Radek Lončák MBA (ODS) a Lukas Wünsch (Severočeši Litoměřice)**.
 Sporný bod nebyl dle informací na řádném programu, nýbrž byl dodatečně doplněn 6. 3. 2019 již jmenovaným **1. místostarostou Mgr. Karlem Krejzou (ODS)**.
 
 Mimo jiné jsme si rovněž zažádali o podkladový materiál k předmětnému usnesení, kterým byla bodová zpráva *Základní alternativy postupu při získání partnera pro společnost Nemocnice Litoměřice, a.s.*, která vnáší do případu další řadu zajímavých informací. 
