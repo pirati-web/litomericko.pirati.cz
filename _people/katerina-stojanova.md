@@ -9,7 +9,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/katerina-stojanova.jpg   # 165 x 220
 description: studentka
 mail:
-- katerina-stojanova@pirati.cz
+- katerina.stojanova@pirati.cz
 mob:			  
 profiles:
   github:                 
