@@ -1,6 +1,6 @@
 # litomericko.pirati.cz
 
-[![Build Status](https://api.travis-ci.org/pirati-web/praha.pirati.cz.svg?branch=gh-pages)](https://travis-ci.org/pirati-web/praha.pirati.cz)
+[![Build Status](https://api.travis-ci.org/pirati-web/litomericko.pirati.cz.svg?branch=gh-pages)](https://travis-ci.org/pirati-web/litomericko.pirati.cz)
 
 ## Lokální spuštění
 
@@ -34,12 +34,10 @@ Popřípadě můžeme spustit jen: `bundle exec jekyll build`, což do složky `
 
 Samotné stránky jsou v markdownu nebo v html (složitější struktura, např. vícesloupců apod)
 
-Kolekce jsou markdown soubory s yaml hlavičkou v příslušné složce, na webu jsou použity 4:
+Kolekce jsou markdown soubory s yaml hlavičkou v příslušné složce, na webu jsou použity tyto:
 
 - posts (články)
 - people (lidé)
-- program
-- teams (týmy)
 
 Některé údaje jsou uvedeny v složce `_data`. Jsou zde ve formátu yaml nebo json.
 

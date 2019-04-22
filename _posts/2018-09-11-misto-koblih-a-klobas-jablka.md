@@ -2,7 +2,7 @@
 title:    "Místo koblih a klobás jablka"
 layout:	  post
 category: blog
-author:	  Pirátské listy
+author:	  Petr Panaš
 image:	  spolu_na_ostrove.jpg
 tags:	  koalice
 date:	  2018-09-11

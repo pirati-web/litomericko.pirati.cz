@@ -2,6 +2,7 @@
 layout: page
 rbar: toc
 ---
+## **Volební program koalice Piráti a Zelení pro volby do litomeřického zastupitelstva 2018**
 
 ### Transparentní radnice
 * Zveřejníme výše odměn za zastupování v orgánech obchodních společností a tyto výše odměn stanovíme usnesením zastupitelstva. Odměny zástupcům města nebudou vypláceny obchodními společnostmi s podílem města, nýbrž městem Litoměřice samotným. 

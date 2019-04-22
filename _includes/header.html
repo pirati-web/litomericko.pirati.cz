@@ -8,11 +8,6 @@
             <a href="{{site.fb}}" rel="noopener noreferrer" target="_blank" title="Facebook - Česká pirátská strana">
               <i class="fa fa-facebook" aria-hidden="true"></i>
           </a></li>
-          <li class="c-header-bar__item c-header-bar__item--smallerSpace">
-            <a href="https://twitter.com/{{site.tw}}" rel="noopener noreferrer" target="_blank" title="Twitter - Česká pirátská strana">
-              <i class="fa fa-twitter" aria-hidden="true"></i>
-            </a>
-          </li>
         </ul>
         <div class="c-header-bar-divider"></div>
         <ul class="c-header-bar-items c-header-bar-items--bigLh">
@@ -29,6 +24,8 @@
     </div>
   </div>
 </aside>
+
+
 
 <div class="c-top-bar">
   <div class="row">
@@ -65,14 +62,14 @@
               <li {% if page.url contains 'aktuality' %} class="is-active"{% endif %}>
                 <a href="{{'/' | relative_url }}">Aktuality</a>
               </li>
-              <li {% if page.url contains 'aktuality' %} class="is-active"{% endif %}>
-                <a href="{{'/o-nas/' | relative_url }}">O nás</a>
-              </li>
               <li{% if page.url contains 'lide' %} class="is-active"{% endif %}>
                 <a href="{{ '/lide/' | relative_url }}">Lidé</a>
               </li>
               <li{% if page.url contains 'program' %} class="is-active"{% endif %}>
-                <a href="{{ '/program/' | relative_url }}">Program</a>
+                <a href="{{ '/program/' | relative_url }}">Program 2018</a>
+              </li>
+              <li>
+                <a href="https://nalodeni.pirati.cz/">Připoj se</a>
               </li>
               <li{% if page.url contains 'kontakt' %} class="is-active"{% endif %}>
                 <a href="{{ '/kontakt/' | relative_url }}">Kontakt</a>

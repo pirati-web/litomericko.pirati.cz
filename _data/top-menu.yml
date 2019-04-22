@@ -1,15 +1,12 @@
 - link: pirati.cz
   url: https://www.pirati.cz
   icon: fa fa-home
+- link: ustecky.pirati.cz
+  url: https://www.ustecky.pirati.cz
+  icon: fa fa-industry
 - link: wiki.pirati.cz
   url: https://wiki.pirati.cz
-  icon: fa fa-home
-#- link: Diskuse
-#  url: https://forum.pirati.cz
-#  icon: fa fa-comments
-#- link: Volné úkoly
-#  url: https://ukoly.pirati.cz
-#  icon: fa fa-tasks
+  icon: fa fa-wikipedia-w
 - link: Pirátské listy
   url: http://www.piratskelisty.cz
   icon: fa fa-newspaper-o

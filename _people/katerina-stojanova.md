@@ -3,7 +3,6 @@ uid: katerina.stojanova
 name:     Kateřina Stojanová  	# běžně používáné jméno
 fullname: Kateřina Stojanová  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- carousel
 - clen
 - pms
 img: people/katerina-stojanova.jpg   # 165 x 220
