@@ -4,7 +4,7 @@ layout:	  post
 category: blog
 author:	  Mikuláš Peksa
 image:	  beseda_cajovna.jpg
-tags:	  Koalice Pávek Peksa Simerská
+tags:	  Koalice
 date:	  2018-04-25
 ---
 

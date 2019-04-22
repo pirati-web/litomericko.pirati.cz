@@ -4,10 +4,10 @@ layout:	  post
 category: blog
 author:	  Petr Panaš
 image:	  radnicni_zpravodaj.jpg
-tags:	  koalice
+tags:	  Zpravodaj
 date:	  2018-08-15
 ---
-Radniční zpravodaj je sestavován radnicí. Zastupitelé dostávají nějaký prostor k vyjádření, ten ale není nijak velký. A hlavně nemohou reagovat na některé účelové a zavádějící články a tvrzení radnice.Příkladem může být tvrzení pana starosty v Radničním zpravodaji č. 1 z 6. února 2018, kde je na str. 7 starostova odpověď na článek, který napsal poslanec Mikuláš Peksa (Piráti). 
+Radniční zpravodaj je sestavován radnicí. Zastupitelé dostávají nějaký prostor k vyjádření, ten ale není nijak velký. A hlavně nemohou reagovat na některé účelové a zavádějící články a tvrzení radnice. Příkladem může být tvrzení pana starosty v Radničním zpravodaji č. 1 z 6. února 2018, kde je na str. 7 starostova odpověď na článek, který napsal poslanec Mikuláš Peksa (Piráti). 
 
 Citace starosty: *„Pane poslanče, všechny opoziční strany zastoupené v zastupitelstvu dostaly nabídku pracovat ve výborech. Bylo na nich, jak se s nabídkou vypořádají.“*
 

@@ -3,8 +3,8 @@ title:    "Tisková zpráva k aktuální situaci povolebního vyjednávání"
 layout:	  "post"
 category: "blog"
 author:	  "Kateřina Stojanová"
-image:	 litomerice.jpg 
-tags:	  "koalice"
+image:	  litomerice.jpg 
+tags:	  Koalice Zastupitelstvo
 date:	  2018-10-17
 ---
 Dnes, 17. 10. 2018, bylo v Litoměřicích v ranních hodinách definitivně podepsáno memorandum o budoucí koaliční spolupráci. Na straně vedoucí pozice tak v zastupitelstvu města usednou zástupci z vítězné ODS, Severočeši - Litoměřice a Sport a zdraví. 

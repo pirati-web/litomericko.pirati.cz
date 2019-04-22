@@ -4,7 +4,7 @@ layout:	  post
 category: blog
 author:	  Petr Panaš
 image:	  oaza.jpg
-tags:	  koalice
+tags:	  Rozpočet Komentář
 date:	  2018-09-28
 ---
 Participativní rozpočet je nástroj, jak u občanů zvýšit zájem o dění ve městě, své okolí a veřejná prostranství. Skutečně to funguje. Má to ale jednu podmínku. Žadatel i město musí dodržovat schválená pravidla. To se nestalo v letošním roce v Litoměřicích. Těžko potom někoho přesvědčovat, že má smysl být aktivní a angažovat se. O co konkrétně ale jde?

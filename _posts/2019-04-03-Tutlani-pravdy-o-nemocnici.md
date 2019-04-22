@@ -4,7 +4,7 @@ layout:	  post
 category: blog
 author:	  Kateřina Stojanová
 image:	  krejza.jpg
-tags:	  nemocnice
+tags:	  Nemocnice
 date:	  2019-04-03
 ---
 V souvislosti s řadou nevyjasněných bodů ohledně dalšího nakládání s litoměřickou nemocnicí jsme se rozhodli využít práva na svobodný přístup k informacím dle zákona č. 106/1999 Sb. a získat od Městského úřadu klíčové informace, které se k případu vztahují. 

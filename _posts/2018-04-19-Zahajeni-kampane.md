@@ -4,7 +4,7 @@ layout:	  post
 category: blog
 author:	  Mikuláš Peksa
 image:	  logo_pro_zahajeni_kampane.png
-tags:	  koalice
+tags:	  Koalice
 date:	  2018-04-19
 ---
 

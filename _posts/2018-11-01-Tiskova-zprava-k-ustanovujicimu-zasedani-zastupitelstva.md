@@ -3,8 +3,8 @@ title:    "1. ustanovující zasedání Zastupitelstva města"
 layout:	  post
 category: blog
 author:	  "Kateřina Stojanová"
-image:	zastupitelé.jpg  
-tags:	  zastupitelstvo
+image:	  zastupitelé.jpg  
+tags:	  Zastupitelstvo
 date:	  2018-11-01
 ---
 Dne 1. 11. 2018 se uskutečnilo 1. ustanovující veřejné zasedání Zastupitelstva města Litoměřice. Na stranu koalice usedli nově zvolení zástupci z ODS, Severočeši Litoměřice a Sport a zdraví Litoměřice, zatímco opozičními zastupiteli se stali zvolení kandidáti z hnutí ANO 2011, KSČM a z našeho Zeleno-Pirátského koaličního uskupení.

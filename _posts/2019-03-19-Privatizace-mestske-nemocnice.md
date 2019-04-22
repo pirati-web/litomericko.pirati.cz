@@ -4,7 +4,7 @@ layout:	  post
 category: blog
 author:	  Kateřina Stojanová
 image:	  nemocnice-ltm.jpg
-tags:	  nemocnice
+tags:	  Nemocnice
 date:	  2019-03-19
 ---
 
