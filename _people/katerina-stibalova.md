@@ -3,13 +3,11 @@ uid: katerina.stibalova
 name:     Kateřina Stibalová	  	# běžně používáné jméno
 fullname: Mgr. Kateřina Stibalová	  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- ulk
 - litkan
 - priznivec
 img: people/katerina-stibalova.jpg   # 165 x 220
 description: sociální pracovnice, terapeut, adiktolog
 mail:
-- katerina.stibalova@pirati.cz
 mob:
 profiles:
   github:

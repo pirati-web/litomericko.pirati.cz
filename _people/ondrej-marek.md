@@ -7,7 +7,7 @@ category:
 - litkan                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/man-placeholder.png   # 165 x 220
 description: lokální síťař SPOD, sociální pracovník, student VŠ
-mail:
+mail: ondrej.marek@pirati.cz
 mob:
 profiles:
   github:

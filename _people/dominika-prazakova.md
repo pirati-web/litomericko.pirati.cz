@@ -3,7 +3,6 @@ uid: dominika.prazakova
 name:     Dominika Pražáková	  	# běžně používáné jméno
 fullname: Dominika Pražáková, DiS  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- ulk
 - litkan
 - priznivec
 img: people/dominika-prazakova.jpg   # 165 x 220
@@ -17,8 +16,6 @@ profiles:
   flickr:
 ordlitkan: 16
 ---
-**Politická příslušnost**: nezávislá za Piráty
-
 **Zaměstnání**: na volné noze
 
 **Proč kandiduji**: Litoměřice jsou pro mě sebevědomé, zdravě pulzující, živé město a moc bych si přála aby to tak zůstalo i nadále, proto bych ráda působila v oblasti rozvoje turismu a tak napomohla místním podnikatelům, kteří působí v oblasti kultury a pohostinství. Město Litoměřice a jeho okolí má, co se kulturních památek a okolní přírody týče, co nabídnout a pevně věřím, že rozvoj turismu napomůže dalšímu zviditelnění města, které tak může nadále růst co se ekonomické úrovně týče.

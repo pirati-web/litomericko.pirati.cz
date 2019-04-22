@@ -3,13 +3,12 @@ uid: katerina.stojanova
 name:     Kateřina Stojanová  	# běžně používáné jméno
 fullname: Kateřina Stojanová  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- ulk
-- litkan
 - carousel
 - clen
 - pms
 img: people/katerina-stojanova.jpg   # 165 x 220
 description: studentka
+title: 1. místopředsedkyně
 mail:
 - katerina-stojanova@pirati.cz
 mob:			  
@@ -22,6 +21,7 @@ carousel:
   img: katerina-stojanova.jpg
   text: Věřím, že Litoměřice dokáží být místem pro spokojený život obyvatel všech věkových kategorií a proto by každá takováto věková skupina měla mít v našem zastupitelstvu své zastoupení. Můj nízký věk mě zvýhodňuje v tom, že se pohybuji mezi mladými Litoměřičany, znám jejich problémy a tužby s městem spojené a chtěla bych tak být spojkou mezi nimi a vedením města. Jsem přesvědčená, že mladí jsou budoucností našeho města a měli by tak dostat podíl na místním rozhodování. 
 ordlitkan: 3
+ordpms: 2
 ---
 **Zaměstnání**: studentka
  

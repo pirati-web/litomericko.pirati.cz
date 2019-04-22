@@ -3,11 +3,12 @@ uid: ales.stibal
 name:     Aleš Stibal	  	# běžně používáné jméno
 fullname: Aleš Stibal	  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- ulk
 - litkan
 - clen
+- pms
 img: people/ales-stibal.jpg   # 165 x 220
 description: eskalační inženýr a trenér ve společnosti Fortinet, spoluvlastník Netlancers s.r.o.
+title: předseda
 mail:
 - ales.stibal@pirati.cz
 mob:
@@ -20,6 +21,7 @@ carousel:
   img: ales-stibal.jpg
   text: Doba se mění. Když jsem byl mladší, myslel jsem si, že (mi) stačí odvolit, projevit nějakou obecně směřovanou vůli a je to. Ale není. Politika se změnila k horšímu, ve prospěch populismu, polopravdám a manipulacím. Mě se to nelíbí, a nemůžu už nadále sledovat dění okolo mě, které ovlivní budoucnost mých dětí, aniž bych neměl pocit, že jsem mohl udělat více. Proto jsem se rozhodl se aktivně zapojit.
 ordlitkan: 1
+ordpms: 1
 ---
 **Zaměstnání:** eskalační inženýr a trenér ve společnosti Fortinet, spoluvlastník Netlancers s.r.o.
  

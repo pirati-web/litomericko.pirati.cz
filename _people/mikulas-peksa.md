@@ -15,10 +15,6 @@ profiles:
   facebook:     https://www.facebook.com/mikulas.peksa
   twitter: vonpecka
   flickr:		  https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&text=mikul%C3%A1%C5%A1%20peksa&view_all=1
-ordga: 9
-ordrp: 5
-ordpsp: 4
-ordpks: 2
 ordlitkan: 22
 carousel:
   img: mikulas-peksa.jpg
