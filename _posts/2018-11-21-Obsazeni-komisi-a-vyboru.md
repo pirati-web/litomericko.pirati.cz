@@ -4,7 +4,7 @@ layout:	  post
 category: blog
 author:	  "Kateřina Stojanová"
 image:	  spolecna.jpg
-tags:	  koalice
+tags:	  Koalice Zastupitelstvo
 date:	  2018-11-21
 ---
 Dne 12. 11. 2018 proběhlo v kanceláři starosty města Litoměřic již druhé zasedání Rady města. Nově zvolení radní z koaličních zastupitelských stran ODS, Severočeši Litoměřice a Sport a Zdraví Litoměřice mimo jiné jmenovali předsedy, členy a sekretáře komisí při Radě města na následující volební období 2018 - 2022.

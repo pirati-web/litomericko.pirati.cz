@@ -4,7 +4,7 @@ layout:	  post
 category: blog
 author:	  Pirátské listy
 image:	  rozhovor_schematko.png
-tags:	  koalice
+tags:	  Koalice
 date:	  2018-08-12
 ---
 Na položené otázky odpovídají další kandidáti Pirátů a Zelených do litoměřických komunálních voleb, Aleš Stibal (Piráti) a Renata Kutina Vášová (Zelení). 

@@ -4,7 +4,7 @@ layout:	  post
 category: blog
 author:	  "Kateřina Stojanová"
 image:	  ales_stibal.jpg
-tags:	  koalice
+tags:	  Koalice
 date:	  2018-10-08
 ---
 Výsledky voleb jsou již od soboty sečteny, nyní nastává období povolebního vyjednávání mezi jednotlivými politickými subjekty, ze kterého by mělo vzejít nové složení vedení a orgánů města. S 11,1% hlasů obdržela naše koalice 4 mandáty, díky čemuž jsme se stali v Litoměřicích třetím nejsilnějším uskupením, za což patří voličům velký dík! 

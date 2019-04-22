@@ -4,7 +4,7 @@ layout:	  post
 category: blog
 author:	  Lenka Simerska
 image:	  zeny-pozvanka.png
-tags:	  koalice
+tags:	  Ženy
 date:	  2018-08-23
 ---
 ### Síťovací setkání žen, které působí v politických funkcích a veřejné správě

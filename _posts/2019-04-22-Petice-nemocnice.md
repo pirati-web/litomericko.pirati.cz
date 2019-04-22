@@ -4,7 +4,7 @@ layout:	  post
 category: blog
 author:	  "Petiční výbor: ZACHRAŇME NEMOCNICI NÁM VŠEM"
 image:	  bartos_s_stanek.jpg
-tags:	  nemocnice
+tags:	  Nemocnice
 date:	  2019-04-22
 ---
 My, níže podepsaní občané požadujeme, aby Zastupitelstvo města Litoměřice a Rada města Litoměřice neschválili a s okamžitou platností pozastavili jakoukoli formu převodu vlastnictví či provozování nemocnice v Litoměřicích na jiný subjekt.
