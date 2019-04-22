@@ -4,7 +4,7 @@ layout:	  post
 category: blog
 author:	  Petr Panaš
 image:	  spolu_na_ostrove.jpg
-tags:	  koalice
+tags:	  Koalice Události
 date:	  2018-09-11
 ---
 V neděli 9.9. proběhla společná předvolební akce na Střeleckém ostrově, kterou uspořádala koalice Pirátů a  Zelených společně s KDU-ČSL. Název zněl „Společně pro Litoměřice“, ale pokud v někom evokoval dohodnutou povolební spolupráci, tak se mýlil. Pravdou je, že s Lidovci nejsme v Litoměřicích v žádném rozporu a přišlo nám fajn spojit síly v rámci společného odpoledne. Děti měly možnost si zaskotačit na skákacím hradu, vyzkoušet lukostřelbu, eko hry na chodník či rukodělné aktivity. Dospělí se mohli seznámit se specifikou komunálních voleb z hlediska hlasování a dozvědět se o volebních programech obou politických uskupení.

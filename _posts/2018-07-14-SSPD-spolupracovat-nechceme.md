@@ -1,10 +1,10 @@
 ---
-title:	  'Komentář: S SPD spolupracovat nechceme'
+title:	  'S SPD spolupracovat nechceme'
 layout:	  post
 category: blog
 author:	  Petr Panaš
 image:	  demo_proti_SPD.jpg
-tags:	  koalice
+tags:	  Koalice
 date:	  2018-07-14
 ---
 Občas dostáváme otázku, proč nechtějí Zelení a Piráti spolupracovat s SPD ani na komunální úrovni. Městská politika přece není o té celostátní, ale hlavně o lidech a většině jde  o naše město. Tedy předem deklarovat nespolupráci je iracionální. Naše odpověď je, že není a spolupráce s komunisty a stranou Tomia Okamury je prostě pro nás nemožná. Nechceme mít nic společného s těmi, kteří záměrně šíří dezinformace a vnášejí do naší společnosti averzi a nepřátelství jedněch lidí vůči jiným, a to pouze za účelem získání politických bodů.

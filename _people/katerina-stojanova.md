@@ -9,7 +9,7 @@ img: people/katerina-stojanova.jpg   # 165 x 220
 description: studentka
 title: 1. místopředsedkyně
 mail:
-- katerina-stojanova@pirati.cz
+- katerina.stojanova@pirati.cz
 mob:			  
 profiles:
   github:                 

@@ -4,7 +4,7 @@ layout:	  post
 category: blog
 author:	  Pirátské listy
 image:	  olga-richterova.jpg
-tags:	  koalice
+tags:	  Ženy
 date:	  2018-08-26
 ---
 *Jak se díváš na nízké procento žen ve vrcholové politice, potažmo na nízký zájem žen o politiku obecně?*

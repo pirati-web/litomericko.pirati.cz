@@ -4,7 +4,7 @@ layout:	  post
 category: blog
 author:	  Petr Panaš
 image:	  komentar_pejskari.jpg
-tags:	  koalice
+tags:	  Koalice Komentář
 date:	  2018-08-20
 ---
 Parafrází na přísloví o výhodě znalostí cizích jazyků se chci zamyslet nad smyslem obecně závazných vyhlášek. Jsou výhodou nebo přítěží? Určitě na to nenajdeme jednoznačnou odpověď. Dle mého mají určitě smysl vyhlášky upravující místní poplatky a daň z nemovitosti, tedy jakési „komunální daně.“ Každá obec nebo město má možnost se rozhodnout, zda bude chtít od občanů získat peníze a tyto smysluplně investovat. Případně určit, kolik se má platit za psy, vstupné, ubytovací kapacitu či lázeňský poplatek. 
