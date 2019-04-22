@@ -21,10 +21,12 @@ carousel:
   text: |
     <p><strong>Poslanec za Ústecký kraj</strong>
 ---
-**Zaměstnání:** poslanec, programátor, biofyzik
+Mikuláš Peksa je místopředsedou Pirátské strany a garantem zahraničně-politického programu Pirátů.
+Vystudoval Gymnázium Christiana Dopplera a Biofyziku na Matematicko-Fyzikální fakultě UK. 
+V průběhu studia se specializoval na využití jaderné magnetické rezonance pro výzkum dynamiky tekutin v porézních materiálech.
+Před zvolením do poslanecké sněmovny pracoval jako programátor a správce linuxových serverů.
 
-**Proč kandiduji:** Chci propojit litoměřickou komunální politiku s politikou na celostátní úrovni. O našem městě, jeho problémech i přednostech by mělo být v poslanecké sněmovně slyšet.
-
-**Další informace:** Mikuláš Peksa je místopředsedou Pirátské strany a garantem zahraničně-politického programu Pirátů. Vystudoval Gymnázium Christiana Dopplera a Biofyziku na Matematicko-Fyzikální fakultě UK. V průběhu studia se specializoval na využití jaderné magnetické rezonance pro výzkum dynamiky tekutin v porézních materiálech. Před zvolením do poslanecké sněmovny pracoval jako programátor a správce linuxových serverů.
-
-Angažuje se v mezinárodních aktivitách Pirátů a tvorbě mezinárodně-politického programu. Mezi jeho zájmy patří kromě přírodních věd a IT také historie, filozofie, mezinárodní politika, LARPy a RPG.
+Angažuje se v mezinárodních aktivitách Pirátů a tvorbě mezinárodně-politického programu. 
+Mezi jeho zájmy patří kromě přírodních věd a IT také historie, filozofie, mezinárodní politika, LARPy a RPG.
+V současnosti [kandiduje](https://evropapotrebuje.cz) za Piráty do Evropského parlamentu.
+Více informací naleznete na [Mikulášově blogu](https://mikulas-peksa.eu).
