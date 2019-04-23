@@ -42,4 +42,13 @@ Jako zaměstnanci Nemocnice Litoměřice, a.s., a občané města Litoměřice a
 * Rovnátka Ltm s.r.o. MUDr. Sylvie Saifrtová, Veitova 3,
 * Zdravá výživa Jablíčko, Družba Litoměřice
 * Cukrárna u Míši, Masarykova 4, Litoměřice
-
+* Lékárna u Aeuskulapa, 8 května 152/7, Lovosice
+* Restaurace U Kašpara, Terezinská 150/21, Lovosice
+* Restaurace Beseda, Dlouhá 83/4, Lovosice
+* Pivnice Sarajevo, Osvoboditelů1069/16, Lovosice
+* Lékárna U Zlatého hada, Školní 399/12, Lovosice
+* Restaurace U Kaple, Teplická 895/37, Lovosice
+* Čekárna u MUDr. Švábové, Školní 5, Lovosice
+* Čekárna u MUDr. Třešňáka, Terezínská 488, Lovosice
+* Čekárna laboratoře, ul. Školní 41/1, Lovosice
+* Obecní úřad, Velemín 96, Velemín
