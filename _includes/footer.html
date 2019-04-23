@@ -3,65 +3,16 @@
 # CSS_HACK: aby nebyl bílej proužek pod sliderem
 <div class="c-hero" style="margin-bottom: -1.5rem;position: relative;">
 {% endcomment %}
-<div class="c-hero">
-        <div class="row">
-            <div class="c-hero-container">
-            <div class="small-12 columns">
-                <div class="c-hero-block">
-                    <h1 class="c-hero__title">Naši lidé</h1>
-                </div>
-                <div class="c-hero-block c-hero-content u-js-hiddenBeforeLoad">
-                    <div class="c-hero-slider orbit" role="region" aria-label="Naši lidé" data-orbit="" data-use-m-u-i="false">
-                        <button class="orbit-previous">
-                            <span class="show-for-sr">Předchozí záložka</span>
-                            <i class="fa fa-chevron-left" aria-hidden="true"></i>
-                        </button>
-                        <button class="orbit-next">
-                            <span class="show-for-sr">Další záložka</span>
-                            <i class="fa fa-chevron-right" aria-hidden="true"></i>
-                        </button>
-                        <ul class="orbit-container">
-                            {% assign team = site.people | where_exp:"item","item.categories contains 'carousel'" | sort:"ordlitkan" %}
-                            {% for person in team %}
-                            {% include people/carousel.html param='person' %}
-                            {% endfor %}
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
 
 <footer class="o-section o-section--tiled o-section--bigger u-inverted u-cf">
     <div class="row">
       <div class="small-12 columns">
         <p class="u-0margin u-noWrap u-smaller-line-height show-for-large">
-          <span class="u-mirror-horizontally">&copy;</span> Piráti, 2018. Všechna práva vyhlazena. Sdílejte a nechte ostatní sdílet za stejných podmínek.
+          <span class="u-mirror-horizontally">&copy;</span> Piráti, 2019. Všechna práva vyhlazena. Sdílejte a nechte ostatní sdílet za stejných podmínek.
       </div>
     </div>
 </footer>
-<aside class="o-section o-section--bigger c-contact-bar u-inverted u-center-medium-down">
-  <div class="o-section-inner">
-    <div class="row">
-      <div class="small-12 columns">
-        <header class="c-contact-bar-header u-stacked-medium-down">
-          <h3 class="c-contact-bar__heading"> <a href="{{ '/kontakt/' | relative_url }}">Kontakt</a> </h3>
-        </header>
-        <ul class="c-contact-bar-items u-stacked-medium-down">
-          <li class="c-contact-bar__item u-stacked-medium-down">
-            <div class="c-contact-bar__section"> Piráti: </div>
-            <a href="mailto:vladimir.charvat@pirati.cz">mikulas.peksa@pirati.cz</a>
-          </li>
-          <li class="c-contact-bar__item u-stacked-medium-down">
-            <div class="c-contact-bar__section"> Zelení: </div>
-            <a href="mailto:barbora.pribylova@pirati.cz">litomerice@zeleni.cz</a>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</aside>
+
 
 <div class='scrolltop'>
     <div class='scroll icon'><i class="fa fa-4x fa-angle-up"></i></div>

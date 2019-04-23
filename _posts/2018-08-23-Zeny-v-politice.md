@@ -2,7 +2,7 @@
 title:	  'Ženy v politice a veřejném životě Ústeckého kraje'
 layout:	  post
 category: blog
-author:	  Lenka Simerska
+author:	  Lenka Simerská
 image:	  zeny-pozvanka.png
 tags:	  Ženy
 date:	  2018-08-23

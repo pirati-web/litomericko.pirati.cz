@@ -4,9 +4,10 @@ name:     Jiří Rotter  	# běžně používáné jméno
 fullname: Jiří Rotter  	# jméno s tituly etc.
 category:
 - litkan                 	# kategorie: rp, praha, vary, hradec, jmk, senat
+- clen
 img: people/jiri-rotter.jpg   # 165 x 220
 description:  vývojář manipulační techniky - elektrotechnik
-mail:
+mail: jiri.rotter@pirati.cz
 mob:
 profiles:
   github:
@@ -15,9 +16,6 @@ profiles:
   flickr:
 ordlitkan: 11
 ---
-
-**Politická příslušnost:** nezávislý za Piráty 
-
 **Zaměstnání**: vývojář manipulační techniky - elektrotechnik
 
 **Proč kandiduji**: Pokud není člověk s věcmi veřejnými spokojený, nestačí jen lamentování v diskusích či hospodách. Ze své praxe mám spoustu nápadů a zkušeností, jak věci zlepšit. Bez přítomnosti v zastupitelstvu to však není možné.

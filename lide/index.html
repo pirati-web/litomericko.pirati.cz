@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{% include submenu.html %}
+
 <div class="row o-section-block o-section-block--divided">
     <div class="medium-12 large-12 columns">
         <section class="o-section">
@@ -10,9 +10,10 @@ layout: default
                     <div class="c-BasicPage">
                         <div class="c-BasicPage-content">
                           <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+                              <h2>Předsednictvo místního sdružení</h2>
                               <li class="c-simple-accordion-item  is-active" data-accordion-item="">
                                   <div id="cleni" class="c-simple-accordion-content" data-tab-content="">
-                                        {% assign team = site.people | where_exp:"item","item.categories contains 'litkan'"| sort:"ordlitkan" %}
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'pms'"| sort:"ordpms" %}
                                         {% include people/list-2col.html param=team %}
                                   </div>
                               </li>
@@ -26,3 +27,53 @@ layout: default
     </div>
 </div>
 
+<div class="row o-section-block o-section-block--divided">
+    <div class="medium-12 large-12 columns">
+        <section class="o-section">
+            <div class="o-section-inner">
+                <main class="o-section-block">
+                    <div class="c-BasicPage">
+                        <div class="c-BasicPage-content">
+                          <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+                              <h2>Členové</h2>
+                              <li class="c-simple-accordion-item  is-active" data-accordion-item="">
+                                  <div id="cleni" class="c-simple-accordion-content" data-tab-content="">
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'clen'"| sort:"ordclen" %}
+                                        {% include people/list-2col.html param=team %}
+                                  </div>
+                              </li>
+                          </ul>
+                       </div>
+                    </div>
+                </main>
+            </div>
+        </section>
+        <!-- /. o-section -->
+    </div>
+</div>
+
+
+<div class="row o-section-block o-section-block--divided">
+    <div class="medium-12 large-12 columns">
+        <section class="o-section">
+            <div class="o-section-inner">
+                <main class="o-section-block">
+                    <div class="c-BasicPage">
+                        <div class="c-BasicPage-content">
+                          <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+                              <h2>Registrovaní příznivci</h2>
+                              <li class="c-simple-accordion-item  is-active" data-accordion-item="">
+                                  <div id="priznivci" class="c-simple-accordion-content" data-tab-content="">
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'priznivec'"| sort:"ordpriznivec" %}
+                                        {% include people/list-2col.html param=team %}
+                                  </div>
+                              </li>
+                          </ul>
+                       </div>
+                    </div>
+                </main>
+            </div>
+        </section>
+        <!-- /. o-section -->
+    </div>
+</div>
