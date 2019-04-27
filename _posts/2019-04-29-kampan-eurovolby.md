@@ -1,5 +1,5 @@
 ---
-title:	  Zahájení kampaně
+title:	  Setkání s pirátskými kandidáty do Evropského parlamentu
 layout:	  post
 category: blog
 author:	  Kateřina Stojanová
