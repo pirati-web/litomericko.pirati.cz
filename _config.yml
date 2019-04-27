@@ -16,6 +16,8 @@ gems:
 paginate_path: "/aktuality/:num/"
 paginate: 11
 
+future: false
+
 exclude:
   - readme.md
   - Gemfile
