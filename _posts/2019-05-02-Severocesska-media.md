@@ -19,7 +19,7 @@ Jak už bylo řečeno, Severočeši - Litoměřice mají své zástupce v Radě 
 
 V tištěném deníku, který je pod stejnou značkou Jana Dostála vydáván, se navíc pravidelně na několika stranách objevuje pouze logo jeho politické organizace. Již v minulosti tuto záležitost komentoval tak, že Severočeši - Litoměřice si jako jediní, narozdíl od zbytku politických stran, tuto formu reklamy v plátku platí. Představený převod z účtu jeho partaje na účet jeho média však vyznívá skutečně úsměvně.
 
-Je tedy velkou otázkou, zda-li se regionální médium Litoměřicko24.cz snaží o tvorbu nezávislé žurnalistiky, nebo jde opět jen o provázání komunálních politiků s médiem, které jim účelově "hraje do karet". 
+Je tedy velkou otázkou, zda-li se regionální médium Litoměřicko24.cz snaží o tvorbu vyvážené žurnalistiky, nebo jde opět jen o provázání komunálních politiků s médiem, které jim účelově "hraje do karet". 
 
 
 
