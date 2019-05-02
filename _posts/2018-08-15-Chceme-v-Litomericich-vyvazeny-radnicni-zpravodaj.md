@@ -4,7 +4,7 @@ layout:	  post
 category: blog
 author:	  Petr Panaš
 image:	  radnicni_zpravodaj.jpg
-tags:	  Zpravodaj
+tags:	  Zpravodaj Média
 date:	  2018-08-15
 ---
 Radniční zpravodaj je sestavován radnicí. Zastupitelé dostávají nějaký prostor k vyjádření, ten ale není nijak velký. A hlavně nemohou reagovat na některé účelové a zavádějící články a tvrzení radnice. Příkladem může být tvrzení pana starosty v Radničním zpravodaji č. 1 z 6. února 2018, kde je na str. 7 starostova odpověď na článek, který napsal poslanec Mikuláš Peksa (Piráti). 
