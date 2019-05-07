@@ -4,7 +4,7 @@ name:     Petr Rýsler  	# běžně používáné jméno
 fullname: Petr Rýsler  	# jméno s tituly etc.
 category:
 - clen
-img: people/man-placeholder.png   # 165 x 220
+img: people/petr-rysler.jpg   # 165 x 220
 description: majitel restaurantu Atypik
 mail: petr.rysler@pirati.cz
 mob:
