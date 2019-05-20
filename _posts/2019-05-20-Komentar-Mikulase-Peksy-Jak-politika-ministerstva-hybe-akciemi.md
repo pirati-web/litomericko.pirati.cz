@@ -5,7 +5,7 @@ category: blog
 author:	  Mikuláš Peksa
 image:	  mikulas-peksa.jpg
 tags:	  Nemocnice Komentář
-date:	  2019-05-10
+date:	  2019-05-20
 ---
 Diskusi o privatizaci Městské nemocnice v Litoměřicích nemocnice rámuje argument, že nemocnice není ve své současné podobě ufinancovatelná.
 Přestože znalecký posudek z roku 2017 nic takového nenaznačuje, příznivci privatizace často argumentují tím, že “malá” nemocnice si nedokáže do budoucna na trhu vyjednat rovnocenné podmínky jako velké řetězce, které provozují mnoho nemocnic po celé zemi.
