@@ -32,6 +32,7 @@ Stručně řečeno je cílem vytvořit metodiku, která by umožnila stanovit v�
 Dá se předpokládat, že tento systém bude podstatně robustnější vůči tlaku lobbistů a tím dá potřebnou páku pro vyjednávání se zdravotními pojišťovnami právě regionálním nemocnicím, jako je třeba ta litoměřická.
 
 Projekt DRG Restart byl zahájen už v roce 2015, finální dokončení se dle harmonogramu ministerstva předpokládá v letech 2019 až 2020.
+V tuto chvíli už existují simulace jeho nasazení v některých nemocnicích.
 Myslím, že jeho nasazení významným způsobem zahýbe všemi odhady ziskovosti Litoměřické nemocnice.
 
 Mluví-li tedy představitelé radnice o prodeji nemocnice, rád bych věděl, zda-li by podobně uvažovali, kdyby se jednalo o jejich soukromý majetek.
@@ -46,4 +47,7 @@ Mluví-li tedy představitelé radnice o prodeji nemocnice, rád bych věděl, z
 [Tisková zpráva Ministerstva zdravotnictví ze dne 14. 9. 2018](https://www.mzcr.cz/dokumenty/ve-sbirce-zakonu-vysla-uhradova-vyhlaskaktera-je-poprve-vysledkem-dohody-mezi-_16006_1.html)
 
 [Znalecký posudek: Stanovení spravedlivé hodnoty („fair value“) obchodního závodu příspěvkové organizace Městská nemocnice v Litoměřicích.](/assets/pdf/znalecky-posudek-nemocnice.pdf)
+
+[Rozhovor s ředitelem Ústavu zdravotnických informací a statistiky](https://www.mzcr.cz/dokumenty/vsichni-budou-z-drg-prekvapenirika-reditel-uzis-ladislav-dusek_17152_1.html)
+
 
