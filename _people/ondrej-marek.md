@@ -5,7 +5,7 @@ fullname: Mgr. Ondřej Marek  	# jméno s tituly etc.
 category:
 - clen
 - litkan                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-img: people/man-placeholder.png   # 165 x 220
+img: people/ondrej-marek.jpg   # 165 x 220
 description: lokální síťař SPOD, sociální pracovník, student VŠ
 mail: ondrej.marek@pirati.cz
 mob:
