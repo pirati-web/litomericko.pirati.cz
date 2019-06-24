@@ -5,7 +5,7 @@ category: blog
 author:	  "Mikuláš Peksa"
 image:	  checklist.jpg
 tags:	  Nemocnice Referendum
-date:	  2019-06-13
+date:	  2019-06-24
 ---
 Piráti představují alternativu k ukvapeným a netransparentním snahám radniční koalice prodat městskou nemocnici.
 Takové rozhodnutí může být přijato jedině z demokratické vůle občanů Litoměřic.
