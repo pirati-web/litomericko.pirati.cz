@@ -6,6 +6,7 @@ category:
 - clen
 img: people/petr-rysler.jpg   # 165 x 220
 description: majitel restaurantu Atypik
+title: Člen MS
 mail: petr.rysler@pirati.cz
 mob:
 profiles:

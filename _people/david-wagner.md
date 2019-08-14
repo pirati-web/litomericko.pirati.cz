@@ -4,11 +4,10 @@ name:     David Wagner  	# běžně používáné jméno
 fullname: Mgr. David František Wagner  	# jméno s tituly etc.
 category:
 - clen
-- pms
 - litkan                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/man-placeholder.png   # 165 x 220
 description: asistent europoslance
-title: 3. místopředseda
+title: Člen MS
 mail: david.wagner@pirati.cz
 mob:			  +420 721 030 120
 profiles:
@@ -17,5 +16,4 @@ profiles:
   twitter: 
   flickr:
 ordlitkan: 9
-ordpms: 4
 ---

@@ -7,6 +7,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - priznivec
 img: people/katerina-stibalova.jpg   # 165 x 220
 description: sociální pracovnice, terapeut, adiktolog
+title: Registrovaný příznivec
 mail:
 mob:
 profiles:

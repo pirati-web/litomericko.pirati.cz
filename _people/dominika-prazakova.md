@@ -7,6 +7,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - priznivec
 img: people/dominika-prazakova.jpg   # 165 x 220
 description: na volné noze
+title: Registrovaný příznivec
 mail:
 mob:
 profiles:

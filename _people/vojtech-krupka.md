@@ -6,6 +6,7 @@ category:
 - litkan                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/man-placeholder.png   # 165 x 220
 description: student VŠ, programátor
+title: Registrovaný příznivec
 mail:
 mob:
 profiles:
