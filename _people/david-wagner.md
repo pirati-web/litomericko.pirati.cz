@@ -7,7 +7,7 @@ category:
 - pms
 - litkan                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/man-placeholder.png   # 165 x 220
-description: asistent poslance
+description: asistent europoslance
 title: 3. místopředseda
 mail: david.wagner@pirati.cz
 mob:			  +420 721 030 120

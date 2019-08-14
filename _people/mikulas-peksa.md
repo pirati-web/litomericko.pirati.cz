@@ -6,27 +6,20 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - litkan
 - clen
 img: people/mikulas-peksa.jpg   # 165 x 220
-description: poslanec, programátor, biofyzik
+description: europoslanec, programátor, biofyzik
 mail:
-- mikulas.peksa@pirati.cz
-mob: +420 605 101 249
+- mikulas.peksa@ep.europa.eu
 profiles:
-  github:       
-  facebook:     https://www.facebook.com/mikulas.peksa
+  facebook: https://www.facebook.com/peksamikulas
   twitter: vonpecka
-  flickr:		  https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&text=mikul%C3%A1%C5%A1%20peksa&view_all=1
 ordlitkan: 22
 carousel:
   img: mikulas-peksa.jpg
   text: |
-    <p><strong>Poslanec za Ústecký kraj</strong>
+    <p><strong>Europoslanec</strong>
 ---
-Mikuláš Peksa je místopředsedou Pirátské strany a garantem zahraničně-politického programu Pirátů.
-Vystudoval Gymnázium Christiana Dopplera a Biofyziku na Matematicko-Fyzikální fakultě UK. 
-V průběhu studia se specializoval na využití jaderné magnetické rezonance pro výzkum dynamiky tekutin v porézních materiálech.
-Před zvolením do poslanecké sněmovny pracoval jako programátor a správce linuxových serverů.
+Mikuláš Peksa je europoslanec, místopředseda České pirátské strany a Evropské pirátské strany. Působí také jako garant zahraničního týmu Pirátů. V Evropském parlamentu působí ve výborech pro [Průmysl, výzkum a energetiku (ITRE)](https://www.europarl.europa.eu/committees/cs/itre/home.html), [Hospodářství a měnu (ECON)](https://www.europarl.europa.eu/committees/cs/econ/home.html) a [Rozpočtovou kontrolu (CONT)](https://www.europarl.europa.eu/committees/cs/cont/home.html). Vystudoval Biofyziku na Matematic­ko-fyzikální fakultě Univerzity Karlovy a v průběhu studia se specializoval na využití jaderné magnetické rezonance, později pracoval jako výzkumný pracovník a softwareový vývojář. Během svého předchozího působení jako poslanec českého parlamentu a místopředseda Výboru pro evropské záležitosti mimo jiné inicioval a jasně podpořil unijní výtky vůči Orbánově Maďarsku, ve chvíli, kdy se většina poslanců Maďarska zastala.
 
-Angažuje se v mezinárodních aktivitách Pirátů a tvorbě mezinárodně-politického programu. 
-Mezi jeho zájmy patří kromě přírodních věd a IT také historie, filozofie, mezinárodní politika, LARPy a RPG.
-V současnosti [kandiduje](https://evropapotrebuje.cz) za Piráty do Evropského parlamentu.
-Více informací naleznete na [Mikulášově blogu](https://mikulas-peksa.eu).
+Jasně pojmenoval střet zájmů i trestní stíhání Andreje Babiše i v rámci diplomatických cest, za což mu premiér hrozil postihem. Stál za odmítnutím omezení internetu prosazovaného pod zástěrkou boje proti terorismu. Dlouhodobě bojuje proti zavedení evropské směrnice o autorském právu, která by nevratně poškodila internet, jak ho známe. Jako europoslanec chce podpořit inovace a technologický růst, například rozvoj umělé inteligence v Evropě. Věří, že technologie mají lidem pomáhat, a ne je šmírovat. Přeje si diplomaticky jednotnou Evropu, která bude schopna se postavit i nadnárodním korporacím, i autoritářským režimům. Mluví plynně anglicky a německy.
+
+Více informací naleznete na Mikulášově [blogu](https://mikulas-peksa.eu), [Facebooku](https://www.facebook.com/peksamikulas), [Twitteru](https://twitter.com/vonpecka) nebo [Instagramu](https://www.instagram.com/mikulaspeksa_official/).
