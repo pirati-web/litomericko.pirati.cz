@@ -7,6 +7,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - clen
 img: people/mikulas-peksa.jpg   # 165 x 220
 description: europoslanec, programátor, biofyzik
+title: Místopředseda Pirátů
 mail:
 - mikulas.peksa@ep.europa.eu
 profiles:

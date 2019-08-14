@@ -6,6 +6,7 @@ category:
 - clen
 img: people/jindrich-pavek.jpg   # 165 x 220
 description: správce polesí
+title: Člen MS
 mail: jindrich.pavek@pirati.cz
 mob:
 profiles:

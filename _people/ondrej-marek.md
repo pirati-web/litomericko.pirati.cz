@@ -7,6 +7,7 @@ category:
 - litkan                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/ondrej-marek.jpg   # 165 x 220
 description: lokální síťař SPOD, sociální pracovník, student VŠ
+title: Člen MS
 mail: ondrej.marek@pirati.cz
 mob:
 profiles:

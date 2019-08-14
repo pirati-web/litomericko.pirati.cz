@@ -7,6 +7,7 @@ category:
 - clen
 img: people/jiri-rotter.jpg   # 165 x 220
 description:  vývojář manipulační techniky - elektrotechnik
+title: Člen MS
 mail: jiri.rotter@pirati.cz
 mob:
 profiles:
