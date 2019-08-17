@@ -66,10 +66,10 @@
                 <a href="{{ '/lide/' | relative_url }}">Lidé</a>
               </li>
               <li{% if page.url contains 'program' %} class="is-active"{% endif %}>
-                <a href="{{ '/program/' | relative_url }}">Program 2018</a>
+                <a href="{{ '/program/' | relative_url }}">Program</a>
               </li>
-              <li>
-                <a href="https://nalodeni.pirati.cz/">Připoj se</a>
+              <li{% if page.url contains 'reporty'%} class="is-active"{% endif %}>
+                <a href="{{ '/reporty/' | relative_url }}">Zastupitelstva</a>
               </li>
               <li{% if page.url contains 'kontakt' %} class="is-active"{% endif %}>
                 <a href="{{ '/kontakt/' | relative_url }}">Kontakt</a>

@@ -1,0 +1,20 @@
+---
+layout: page
+---
+<h3>Litoměřice</h3>
+
+{% assign sorted-reports = (site.reports | sort: 'date') | reverse %}
+
+{% for report in sorted-reports %}
+	{% if report.city contains 'Litomerice' %}
+		<p>{{report.date | date: "%d. %m. %Y"}} <a href="{{report.url | relative_url }}">{{report.title}}</a></p>
+	{% endif %}
+{% endfor %}
+
+<h3>Terezín</h3>
+
+{% for report in sorted-reports %}
+	{% if report.city contains 'Terezin' %}
+		<p>{{report.date | date: "%d. %m. %Y"}} <a href="{{report.url | relative_url }}">{{report.title}}</a></p>
+	{% endif %}
+{% endfor %}
