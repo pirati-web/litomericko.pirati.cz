@@ -37,23 +37,21 @@ collections:
   people:
     output: true
     permalink: /lide/:path/
-  projects:
+  reports:
     output: true
-    permalink: /pripoj-se/:path/
-
+    permalink: /reports/:path/
 defaults:   # defaults values for collection scope
   -
     scope:
       path: "_people"
     values:
       layout: "page"
-      rbar: "people, foto"
   -
     scope:
-      path: "_teams"
+      path: "_reports"
     values:
-      layout: "team"
-      rbar: "team-summary, teams-toc"
+      layout: "report"
+
 
 calendar:
 fb: https://www.facebook.com/565612520258085/
