@@ -24,15 +24,20 @@
     <meta name="msapplication-square150x150logo" content="{{'assets/favicon/mstile-150x150.png?v=2' | relative_url }}">
     <meta name="msapplication-wide310x150logo" content="{{'assets/favicon/mstile-310x150.png?v=2' | relative_url }}">
     <meta name="msapplication-square-310x310logo" content="{{'assets/favicon/mstile-310x310.png?v=2' | relative_url }}">
-    {% if page.layout == 'post' or page.layout == 'page' %}
+    {% if page.layout == 'post' or page.layout == 'page' or page.layout == 'report' %}
     <meta property="og:url"           content="{{page.url | absolute_url }}" />
     <meta property="og:type"          content="website" />
     <meta property="og:title"         content="Piráti: {{page.title}}" />
+    {% endif %}{% if page.layout == 'post' or page.layout == 'page'%}
     <meta property="og:description"   content="{{page.excerpt | strip_html }}" />
+    {% endif %}{% if page.layout == 'report'%}
+    <meta property="og:description"   content="Informace našich volených zastupitelů" />
     {% endif %}{% if page.layout == 'post' %}
     <meta property="og:image" content="{{page.image | prepend: '/assets/img/posts/' | absolute_url }}" />
     {% endif %}{% if page.layout == 'page' %}
     <meta property="og:image" content="{{page.image | prepend: '/assets/img/' | absolute_url }}" />
+    {% endif %}{% if page.layout == 'report' %}
+    <meta property="og:image" content="/assets/img/report.jpg" />
     {% endif %}
     {% feed_meta %}
     <!-- Fonts -->
