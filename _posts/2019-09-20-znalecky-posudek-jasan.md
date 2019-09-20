@@ -1,10 +1,10 @@
 ---
-title:	  "80-letý jasan na Valech byl pokácen"
+title:	  "80letý jasan na Valech byl pokácen"
 layout:	  post
 category: blog
 author:	  "Kateřina Stojanová"
 image:	  pokaceny_jasan.jpg
-tags:	  Nemocnice Referendum
+tags:	  Digitalizace Kácení
 date:	  2019-09-20
 ---
 Litoměřice nedávno přišli o další ze starých, vzrostlých stromů, který jako jeden z mála poskytoval stín v blízkosti centra města.
@@ -19,4 +19,4 @@ A tak jsme se o to postarali za vás - znalecký posudek, fotodokumentaci i výp
 * [Výpis z katatru nemovitostí](/assets/pdf/znalecky-posudek-jasan/PR_01_Výpis_z_katastru_nemovitostí.pdf)
 * [Zákres lokalizace dřeviny](/assets/pdf/znalecky-posudek-jasan/PR_02_Zákres_lokalizace_dřeviny_sadovnická_hodnota-mapový_podklad.pdf)
 * [Mapa pádové oblasti dřeviny](/assets/pdf/znalecky-posudek-jasan/PR_03_Mapa_pádové_oblasti_dřeviny-mapový_podklad.pdf)
-* [Fotodokumentace hodnoce](/assets/pdf/znalecky-posudek-jasan/PR_04_Fotodokumentace_hodnoceného_jasanu_zimnáře.pdf)
+* [Fotodokumentace hodnoceného jasanu](/assets/pdf/znalecky-posudek-jasan/PR_04_Fotodokumentace_hodnoceného_jasanu_zimnáře.pdf)
