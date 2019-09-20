@@ -4,7 +4,7 @@ layout:	  post
 category: blog
 author:	  "Kateřina Stojanová"
 image:	  pokaceny_jasan.jpg
-tags:	  Digitalizace Životní_prostředí
+tags:	  Digitalizace "Životní prostředí"
 date:	  2019-09-20
 ---
 Litoměřice nedávno přišli o další ze starých, vzrostlých stromů, který jako jeden z mála poskytoval stín v blízkosti centra města.
