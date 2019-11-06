@@ -3,7 +3,7 @@ title:	  "V pátek hlasujte pro budoucnost nemocnice!"
 layout:	  post
 category: blog
 author:	  "Jindřich Čermák"
-image:	  ruda-zare-nemocnice.jpg
+image:	  rysler-rotter-referendum.jpg
 tags:	  Nemocnice
 date:	  2019-11-06
 ---
