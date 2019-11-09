@@ -1,5 +1,5 @@
 ---
-title:	 Referendum o nemoncnici
+title:	 Nemělo by se vedení města po prohraném referendu zamyslet nad svým dalším pokračováním?
 layout:	  post
 category: blog
 author:	  Michal Ketner
